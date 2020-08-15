@@ -1,0 +1,2750 @@
+City,Gender,Age,Income,Illness
+Dallas,Male,41,40367,No
+Dallas,Male,54,45084,No
+Dallas,Male,42,52483,No
+Dallas,Male,40,40941,No
+Dallas,Male,46,50289,No
+Dallas,Female,36,50786,No
+Dallas,Female,32,33155,No
+Dallas,Male,39,30914,No
+Dallas,Male,51,68667,No
+Dallas,Female,30,50082,No
+Dallas,Female,48,41524,Yes
+Dallas,Male,47,54777,No
+Dallas,Male,46,62749,No
+Dallas,Female,42,50894,No
+Dallas,Female,61,38429,No
+Dallas,Male,43,34074,No
+Dallas,Male,27,50398,No
+Dallas,Male,38,46373,Yes
+Dallas,Male,47,51137,No
+Dallas,Female,35,23688,No
+Dallas,Male,57,17378,No
+Dallas,Male,33,45919,No
+Dallas,Female,33,23001,No
+Dallas,Female,27,34292,Yes
+Dallas,Male,58,55190,No
+Dallas,Male,64,26169,No
+Dallas,Male,58,57322,No
+Dallas,Male,44,61704,No
+Dallas,Male,34,53619,No
+Dallas,Male,45,47421,Yes
+Dallas,Female,44,40353,No
+Dallas,Male,39,28125,No
+Dallas,Female,55,42630,No
+Dallas,Male,27,56645,No
+Dallas,Female,63,41946,No
+Dallas,Male,41,50312,No
+Dallas,Male,64,47872,No
+Dallas,Female,41,29538,No
+Dallas,Female,61,39881,Yes
+Dallas,Female,59,48518,No
+Dallas,Female,26,16168,Yes
+Dallas,Male,41,68522,No
+Dallas,Female,47,50750,No
+Dallas,Female,58,49614,No
+Dallas,Male,33,56169,No
+Dallas,Female,30,40661,No
+Dallas,Male,51,53730,No
+Dallas,Female,45,34613,No
+Dallas,Female,38,35249,No
+Dallas,Female,56,52218,No
+Dallas,Female,55,47702,No
+Dallas,Male,42,62512,No
+Dallas,Female,58,48655,No
+Dallas,Male,57,55133,No
+Dallas,Male,32,39309,No
+Dallas,Female,55,41036,No
+Dallas,Male,62,60594,No
+Dallas,Female,43,46373,No
+Dallas,Male,35,53303,No
+Dallas,Female,31,42281,No
+Dallas,Female,46,48268,No
+Dallas,Male,49,36223,No
+Dallas,Female,54,36552,No
+Dallas,Female,63,36222,No
+Dallas,Female,58,53333,No
+Dallas,Female,53,40244,No
+Dallas,Male,61,53713,No
+Dallas,Male,44,42823,No
+Dallas,Male,51,44030,Yes
+Dallas,Female,44,25604,No
+Dallas,Female,38,31953,Yes
+Dallas,Female,57,46137,No
+Dallas,Male,44,50089,No
+Dallas,Male,27,53213,No
+Dallas,Female,41,27897,No
+Dallas,Male,43,26997,No
+Dallas,Male,46,29374,No
+Dallas,Male,55,44003,No
+Dallas,Male,53,58625,No
+Dallas,Female,43,52935,No
+Dallas,Male,46,60637,No
+Dallas,Male,46,27092,Yes
+Dallas,Male,43,49741,No
+Dallas,Female,51,31416,No
+Dallas,Female,40,46882,No
+Dallas,Female,34,33246,No
+Dallas,Female,58,32567,No
+Dallas,Male,29,49798,No
+Dallas,Male,28,38119,No
+Dallas,Female,30,27446,No
+Dallas,Male,28,54937,No
+Dallas,Female,25,34653,No
+Dallas,Male,37,63495,No
+Dallas,Female,62,38385,No
+Dallas,Male,45,40789,No
+Dallas,Male,48,62287,No
+Dallas,Female,30,47982,No
+Dallas,Male,44,47860,Yes
+Dallas,Male,62,49231,No
+Dallas,Female,48,42252,Yes
+Dallas,Male,46,68275,No
+Dallas,Male,48,48433,No
+Dallas,Male,61,42379,No
+Dallas,Male,63,44965,No
+Dallas,Female,56,40122,No
+Dallas,Male,63,48512,No
+Dallas,Female,48,47466,Yes
+Dallas,Male,47,30382,No
+Dallas,Female,38,46733,No
+Dallas,Female,64,40960,No
+Dallas,Male,46,39085,No
+Dallas,Female,59,49691,No
+Dallas,Male,39,53649,No
+Dallas,Male,38,37010,No
+Dallas,Male,58,46788,Yes
+Dallas,Male,59,61700,No
+Dallas,Male,48,58460,Yes
+Dallas,Female,31,19155,No
+Dallas,Female,54,56868,No
+Dallas,Male,46,46954,No
+Dallas,Male,43,64376,Yes
+Dallas,Male,38,35911,No
+Dallas,Female,28,48836,No
+Dallas,Male,62,62174,No
+Dallas,Female,62,46385,No
+Dallas,Female,32,52215,No
+Dallas,Male,45,36702,No
+Dallas,Female,31,36979,No
+Dallas,Male,37,58357,No
+Dallas,Male,44,59426,No
+Dallas,Female,59,48994,No
+Dallas,Male,37,61390,No
+Dallas,Female,35,49629,No
+Dallas,Female,65,33676,No
+Dallas,Female,40,45797,No
+Dallas,Male,59,45130,Yes
+Dallas,Male,56,43573,No
+Dallas,Female,56,57028,No
+Dallas,Male,53,68679,No
+Dallas,Male,45,51435,No
+Dallas,Male,60,48559,No
+Dallas,Female,53,38692,Yes
+Dallas,Female,37,46382,No
+Dallas,Female,40,48550,No
+Dallas,Female,56,59945,No
+Dallas,Female,28,51127,No
+Dallas,Male,42,26301,No
+Dallas,Male,60,50057,No
+Dallas,Female,58,31472,No
+Dallas,Female,48,42926,No
+Dallas,Male,37,60150,No
+Dallas,Male,51,38416,No
+Dallas,Female,54,43810,No
+Dallas,Male,63,71551,Yes
+Dallas,Female,36,25564,Yes
+Dallas,Female,32,28551,No
+Dallas,Male,48,45591,No
+Dallas,Female,51,47559,No
+Dallas,Male,59,53835,No
+Dallas,Male,29,55545,No
+Dallas,Female,27,57903,Yes
+Dallas,Male,49,63544,No
+Dallas,Female,54,39273,No
+Dallas,Female,63,38841,No
+Dallas,Female,47,48520,No
+Dallas,Male,55,54849,No
+Dallas,Male,45,50114,No
+Dallas,Female,43,36894,No
+Dallas,Male,25,42719,No
+Dallas,Female,56,47347,No
+Dallas,Female,54,35471,No
+Dallas,Male,40,60636,No
+Dallas,Female,28,48996,No
+Dallas,Female,44,39808,No
+Dallas,Male,47,45383,No
+Dallas,Male,25,43413,No
+Dallas,Female,65,50311,No
+Dallas,Female,38,45187,No
+Dallas,Male,54,60128,No
+Dallas,Male,64,55066,Yes
+Dallas,Female,38,41409,No
+Dallas,Male,51,48899,No
+Dallas,Female,28,32130,No
+Dallas,Male,50,59841,No
+Dallas,Male,47,40709,No
+Dallas,Female,41,25012,No
+Dallas,Male,28,40712,No
+Dallas,Female,44,36038,No
+Dallas,Female,56,47102,No
+Dallas,Male,30,63365,No
+Dallas,Male,64,22134,No
+Dallas,Male,34,40684,No
+Dallas,Male,52,51919,No
+Dallas,Female,54,40526,No
+Dallas,Male,52,48386,No
+Dallas,Male,32,46196,No
+Dallas,Male,51,44816,No
+Dallas,Male,45,63285,No
+Dallas,Female,58,19643,No
+Dallas,Female,37,37872,No
+Dallas,Male,56,47949,No
+Dallas,Male,35,32404,No
+Dallas,Male,36,70577,No
+Dallas,Male,58,44891,No
+Dallas,Male,40,42737,No
+Dallas,Male,55,53217,No
+Dallas,Male,39,53433,No
+Dallas,Female,40,16459,No
+Dallas,Female,27,40469,No
+Dallas,Male,26,53774,No
+Dallas,Male,38,34836,No
+Dallas,Male,34,41093,No
+Dallas,Female,47,47306,No
+Dallas,Female,44,36304,No
+Dallas,Female,40,32430,No
+Dallas,Female,33,28020,No
+Dallas,Female,41,35209,No
+Dallas,Male,42,58206,No
+Dallas,Female,43,41762,No
+Dallas,Female,55,44410,No
+Dallas,Female,51,38805,No
+Dallas,Female,30,34105,No
+Dallas,Male,45,59978,No
+Dallas,Female,47,40115,No
+Dallas,Female,61,42710,No
+Dallas,Male,33,65152,No
+Dallas,Female,39,57208,No
+Dallas,Male,53,49686,No
+Dallas,Male,57,54993,No
+Dallas,Male,61,65721,No
+Dallas,Female,53,26033,No
+Dallas,Male,27,65178,No
+Dallas,Male,26,51428,No
+Dallas,Male,40,57497,No
+Dallas,Male,56,42534,No
+Dallas,Male,42,55519,No
+Dallas,Female,29,31924,No
+Dallas,Female,54,48411,No
+Dallas,Male,32,51888,No
+Dallas,Female,33,51848,No
+Dallas,Male,49,23579,No
+Dallas,Male,35,61320,No
+Dallas,Male,49,40468,No
+Dallas,Male,34,52297,No
+Dallas,Female,61,32631,No
+Dallas,Female,40,-654,Yes
+Dallas,Female,52,38721,Yes
+Dallas,Female,35,40200,No
+Dallas,Male,45,66643,No
+Dallas,Male,44,47535,No
+Dallas,Male,44,37370,No
+Dallas,Male,56,51077,No
+Dallas,Male,56,58303,No
+Dallas,Female,64,39930,No
+Dallas,Male,41,61051,No
+Dallas,Female,54,37022,No
+Dallas,Male,56,59154,No
+Dallas,Female,46,39067,No
+Dallas,Male,54,51490,No
+Dallas,Male,38,53849,Yes
+Dallas,Male,28,44893,No
+Dallas,Female,44,39326,No
+Dallas,Male,28,59432,No
+Dallas,Female,61,50101,No
+Dallas,Male,44,41998,No
+Dallas,Male,62,56361,No
+Dallas,Male,50,41538,No
+Dallas,Male,31,56304,No
+Dallas,Male,59,45585,No
+Dallas,Male,26,64317,No
+Dallas,Male,47,43823,No
+Dallas,Female,60,40457,No
+Dallas,Female,53,33804,No
+Dallas,Male,63,51462,Yes
+Dallas,Male,55,48523,No
+Dallas,Male,63,43072,No
+Dallas,Male,43,46076,No
+Dallas,Male,31,56275,No
+Dallas,Female,61,42897,No
+Dallas,Female,65,41464,No
+Dallas,Male,34,47169,No
+Dallas,Male,38,36525,No
+Dallas,Female,62,34516,No
+Dallas,Male,31,49337,No
+Dallas,Male,60,44809,No
+Dallas,Male,58,59434,No
+Dallas,Female,30,37518,No
+Dallas,Female,46,32425,Yes
+Dallas,Male,41,45878,No
+Dallas,Female,28,49646,No
+Dallas,Female,38,51251,No
+Dallas,Male,40,46114,No
+Dallas,Female,44,54472,No
+Dallas,Male,54,42648,Yes
+Dallas,Female,60,37641,No
+Dallas,Male,30,46098,No
+Dallas,Male,26,42558,No
+Dallas,Male,39,47005,No
+Dallas,Male,41,51131,No
+Dallas,Male,57,59207,Yes
+Dallas,Male,36,64976,No
+Dallas,Male,56,51483,No
+Dallas,Male,34,45927,No
+Dallas,Male,32,67322,No
+Dallas,Male,57,37703,No
+Dallas,Female,62,64697,No
+Dallas,Male,61,44898,No
+Dallas,Female,37,34153,No
+Dallas,Male,36,57350,No
+Dallas,Male,50,46617,No
+Dallas,Male,46,34390,No
+Dallas,Female,34,34927,No
+Dallas,Male,63,59254,No
+Dallas,Female,44,49785,No
+Dallas,Male,44,55387,No
+Dallas,Male,26,54192,Yes
+Dallas,Male,50,56941,No
+Dallas,Female,65,22225,No
+Dallas,Female,39,33083,No
+Dallas,Male,37,59340,No
+Dallas,Male,48,38920,No
+Dallas,Female,40,25830,No
+Dallas,Male,25,56736,No
+Dallas,Male,28,30162,No
+Dallas,Male,38,56717,No
+Dallas,Female,44,38410,No
+Dallas,Male,54,44959,No
+Dallas,Female,47,28613,No
+Dallas,Female,42,36723,No
+Dallas,Female,62,29099,Yes
+Dallas,Male,50,44166,No
+Dallas,Female,61,41837,No
+Dallas,Male,29,57912,No
+Dallas,Male,63,55613,No
+Dallas,Male,51,60860,No
+Dallas,Male,28,67086,No
+Dallas,Male,45,42938,No
+Dallas,Male,44,45514,Yes
+Dallas,Male,36,40552,No
+Dallas,Female,29,33230,No
+Dallas,Male,49,59647,No
+Dallas,Male,44,68651,No
+Dallas,Male,37,48323,No
+Dallas,Male,42,42899,No
+Dallas,Male,30,49882,No
+Dallas,Male,47,71176,No
+Dallas,Female,36,36397,Yes
+Dallas,Female,33,53269,No
+Dallas,Female,55,37407,No
+Dallas,Male,39,42427,No
+Dallas,Male,61,31618,No
+Dallas,Female,51,31580,No
+Dallas,Female,35,11926,No
+Dallas,Female,49,35509,No
+Dallas,Male,43,58988,Yes
+Dallas,Male,37,32973,No
+Dallas,Female,34,27915,No
+Dallas,Male,51,55640,No
+Dallas,Female,48,36317,No
+Dallas,Female,27,53163,No
+Dallas,Male,62,28695,No
+Dallas,Female,33,23952,No
+Dallas,Female,33,31781,No
+Dallas,Male,50,43563,No
+Dallas,Female,32,31671,No
+Dallas,Female,49,42065,No
+Dallas,Female,59,27436,No
+Dallas,Female,52,46311,No
+Dallas,Female,43,45458,No
+Dallas,Female,44,47435,No
+Dallas,Male,44,46572,No
+Dallas,Female,25,46955,No
+Dallas,Female,36,41171,No
+Dallas,Female,36,51153,No
+Dallas,Male,60,56650,No
+Dallas,Male,61,44592,No
+Dallas,Female,43,38154,No
+Dallas,Male,47,58870,No
+Dallas,Female,63,52706,No
+Dallas,Male,54,45465,Yes
+Dallas,Female,48,41742,No
+Dallas,Male,36,34889,No
+Dallas,Female,61,50266,No
+Dallas,Female,30,51144,No
+Dallas,Male,45,70565,No
+Dallas,Male,57,34817,No
+Dallas,Male,61,50642,No
+Dallas,Female,56,11535,No
+Dallas,Male,42,65963,No
+Dallas,Male,37,53465,No
+Dallas,Female,48,33766,No
+Dallas,Female,38,47770,No
+Dallas,Female,54,34871,No
+Dallas,Female,54,45362,No
+Dallas,Male,36,52638,No
+Dallas,Female,36,20029,No
+Dallas,Male,34,42854,No
+Dallas,Male,62,49958,Yes
+Dallas,Male,50,26085,No
+Dallas,Male,38,43929,No
+Dallas,Male,42,39999,No
+Dallas,Male,43,51904,No
+Dallas,Female,35,26635,No
+Dallas,Male,42,53418,Yes
+Dallas,Male,65,54304,No
+Dallas,Male,39,62155,No
+Dallas,Female,65,6733,No
+Dallas,Female,47,26653,No
+Dallas,Male,27,54812,No
+Dallas,Female,43,42320,No
+Dallas,Male,56,62832,No
+Dallas,Male,62,60311,No
+Dallas,Female,60,38837,No
+Dallas,Female,53,42258,No
+Dallas,Male,35,55379,No
+Dallas,Male,29,54090,No
+Dallas,Male,51,56877,No
+Dallas,Male,42,40294,No
+Dallas,Male,31,36154,No
+Dallas,Female,59,43318,No
+Dallas,Male,46,47998,No
+Dallas,Male,42,34580,No
+Dallas,Female,56,50977,No
+Dallas,Female,28,58021,No
+Dallas,Male,33,34316,No
+Dallas,Female,59,38877,No
+Dallas,Female,40,43548,No
+Dallas,Female,56,42285,No
+Dallas,Male,52,52834,No
+Dallas,Female,36,47566,No
+Dallas,Male,51,44138,No
+Dallas,Male,55,49735,No
+Dallas,Female,48,39159,No
+Dallas,Female,54,54271,No
+Dallas,Female,58,42891,No
+Dallas,Female,61,45376,No
+Dallas,Female,64,51749,No
+Dallas,Male,31,30898,No
+Dallas,Male,28,45472,No
+Dallas,Male,59,54936,No
+Dallas,Female,27,43601,Yes
+Dallas,Female,64,38107,No
+Dallas,Male,25,51221,No
+Dallas,Male,49,50653,Yes
+Dallas,Female,60,59483,No
+Dallas,Male,30,41928,No
+Dallas,Male,41,52087,No
+Dallas,Male,47,42597,No
+Dallas,Female,46,41864,No
+Dallas,Male,43,41867,Yes
+Dallas,Male,56,51520,No
+Dallas,Male,64,56658,No
+Dallas,Female,26,41854,No
+Dallas,Female,30,43934,No
+Dallas,Female,38,41575,No
+Dallas,Male,42,32310,No
+Dallas,Male,42,61088,No
+Dallas,Male,30,43811,No
+Dallas,Male,50,64300,No
+Dallas,Female,36,33546,No
+Dallas,Male,64,55192,Yes
+Dallas,Female,40,41087,No
+Dallas,Male,62,39947,No
+Dallas,Male,41,48400,No
+Dallas,Male,41,39335,No
+Dallas,Male,53,58013,No
+Dallas,Male,38,60514,No
+Dallas,Female,45,46662,No
+Dallas,Male,28,49682,Yes
+New York City,Male,42,110534,No
+New York City,Female,61,100665,No
+New York City,Female,58,98147,Yes
+New York City,Female,43,93100,No
+New York City,Male,50,88525,No
+New York City,Male,38,120288,No
+New York City,Female,58,98844,No
+New York City,Female,47,92981,No
+New York City,Female,39,105036,No
+New York City,Female,45,97342,No
+New York City,Female,44,97823,No
+New York City,Male,30,80763,No
+New York City,Female,54,101942,No
+New York City,Male,62,97281,No
+New York City,Female,28,85933,Yes
+New York City,Male,60,106042,No
+New York City,Male,33,101792,No
+New York City,Female,26,97946,No
+New York City,Male,64,104560,No
+New York City,Female,59,90859,No
+New York City,Male,33,94370,Yes
+New York City,Female,48,89437,Yes
+New York City,Female,41,77154,No
+New York City,Female,54,86657,No
+New York City,Male,29,110286,Yes
+New York City,Male,62,112269,No
+New York City,Female,37,112233,No
+New York City,Female,31,105756,No
+New York City,Male,30,104221,No
+New York City,Male,43,102176,No
+New York City,Male,61,104547,No
+New York City,Female,39,116966,No
+New York City,Male,56,108890,No
+New York City,Female,48,82550,No
+New York City,Male,34,89143,No
+New York City,Male,63,104898,No
+New York City,Male,31,110148,No
+New York City,Male,38,83788,No
+New York City,Female,48,93299,No
+New York City,Female,48,102138,No
+New York City,Female,29,86981,No
+New York City,Male,50,105818,No
+New York City,Female,42,77589,No
+New York City,Female,40,94525,No
+New York City,Male,41,93053,No
+New York City,Male,28,115284,Yes
+New York City,Female,32,103291,No
+New York City,Male,60,108215,No
+New York City,Female,30,85906,No
+New York City,Female,62,109589,No
+New York City,Male,33,121024,No
+New York City,Female,63,99050,No
+New York City,Male,51,119493,No
+New York City,Female,38,93411,No
+New York City,Male,58,97107,No
+New York City,Female,34,105684,Yes
+New York City,Male,44,103045,No
+New York City,Male,51,98363,Yes
+New York City,Female,50,98037,No
+New York City,Male,56,96386,No
+New York City,Male,50,108362,Yes
+New York City,Male,49,101102,No
+New York City,Male,64,98339,Yes
+New York City,Female,40,96511,No
+New York City,Male,54,95887,No
+New York City,Male,36,97866,Yes
+New York City,Female,63,99696,No
+New York City,Male,63,99264,No
+New York City,Female,30,90173,No
+New York City,Male,51,99693,Yes
+New York City,Male,39,95091,No
+New York City,Male,41,89573,No
+New York City,Female,62,80946,No
+New York City,Male,29,93838,Yes
+New York City,Female,47,89989,No
+New York City,Female,63,101413,No
+New York City,Male,45,91566,Yes
+New York City,Female,39,92426,No
+New York City,Male,26,107116,No
+New York City,Female,63,96946,No
+New York City,Female,55,83375,Yes
+New York City,Female,48,108846,No
+New York City,Male,54,110746,No
+New York City,Male,51,108988,No
+New York City,Male,41,112197,No
+New York City,Female,48,81480,No
+New York City,Female,55,86697,No
+New York City,Male,40,114375,No
+New York City,Male,57,86764,No
+New York City,Male,35,107406,No
+New York City,Female,26,107515,No
+New York City,Female,26,90927,No
+New York City,Male,26,92412,No
+New York City,Female,54,98319,No
+New York City,Female,41,80162,No
+New York City,Male,28,96052,No
+New York City,Male,59,117000,No
+New York City,Female,31,97014,No
+New York City,Male,49,106911,No
+New York City,Female,38,92123,No
+New York City,Male,38,97471,No
+New York City,Male,49,120286,Yes
+New York City,Female,32,107526,No
+New York City,Male,60,97520,No
+New York City,Male,47,102500,No
+New York City,Female,35,91631,No
+New York City,Female,40,100496,Yes
+New York City,Male,29,83864,No
+New York City,Female,53,86144,No
+New York City,Female,25,86482,No
+New York City,Male,35,103711,No
+New York City,Male,25,111494,No
+New York City,Male,50,81990,No
+New York City,Male,40,95757,No
+New York City,Male,55,109035,No
+New York City,Female,25,78574,No
+New York City,Male,28,94460,No
+New York City,Male,32,86989,No
+New York City,Female,41,73753,No
+New York City,Male,34,85910,Yes
+New York City,Female,34,96887,No
+New York City,Female,54,81410,No
+New York City,Male,26,101573,No
+New York City,Female,51,84192,No
+New York City,Female,36,74220,No
+New York City,Female,44,91827,No
+New York City,Male,43,102907,No
+New York City,Male,38,112552,No
+New York City,Male,37,89757,No
+New York City,Female,31,103381,No
+New York City,Male,51,88795,No
+New York City,Male,42,103814,No
+New York City,Male,46,102338,Yes
+New York City,Female,29,88629,No
+New York City,Male,61,96655,No
+New York City,Male,39,82804,No
+New York City,Male,64,114490,No
+New York City,Male,49,95294,No
+New York City,Male,37,98941,No
+New York City,Male,36,94859,No
+New York City,Female,44,97886,No
+New York City,Female,30,87063,No
+New York City,Female,55,89891,No
+New York City,Female,57,75832,No
+New York City,Male,43,101631,No
+New York City,Male,55,120760,Yes
+New York City,Female,27,92036,No
+New York City,Female,56,82532,Yes
+New York City,Male,60,109593,No
+New York City,Female,57,66108,No
+New York City,Female,29,101180,No
+New York City,Male,41,94095,Yes
+New York City,Male,57,104124,No
+New York City,Female,40,109455,No
+New York City,Male,44,93941,No
+New York City,Male,36,107107,No
+New York City,Male,61,91391,No
+New York City,Male,54,107298,No
+New York City,Male,40,80186,No
+New York City,Female,39,76063,No
+New York City,Female,29,73394,No
+New York City,Female,57,81391,No
+New York City,Male,44,88235,No
+New York City,Male,48,102451,No
+New York City,Male,42,113858,No
+New York City,Female,45,97073,No
+New York City,Female,51,101034,No
+New York City,Male,63,110583,No
+New York City,Female,44,92250,No
+New York City,Female,55,85202,Yes
+New York City,Male,33,109568,No
+New York City,Male,48,93871,No
+New York City,Female,29,81724,Yes
+New York City,Male,28,78918,No
+New York City,Male,53,107090,No
+New York City,Male,41,103781,No
+New York City,Male,48,90798,No
+New York City,Male,54,109389,No
+New York City,Female,62,88569,No
+New York City,Female,57,86688,No
+New York City,Male,60,111974,No
+New York City,Male,62,106604,No
+New York City,Female,45,102160,No
+New York City,Male,35,85832,No
+New York City,Female,38,86923,No
+New York City,Female,28,78601,No
+New York City,Male,38,112428,No
+New York City,Male,58,110341,No
+New York City,Female,40,95970,No
+New York City,Male,52,113866,Yes
+New York City,Male,57,107779,No
+New York City,Female,37,92475,No
+New York City,Male,64,97193,No
+New York City,Female,65,78749,No
+New York City,Male,48,95380,No
+New York City,Male,28,103417,No
+New York City,Male,37,102572,No
+New York City,Female,58,96990,No
+New York City,Male,34,110932,No
+New York City,Female,31,105291,No
+New York City,Female,26,68580,No
+New York City,Male,58,88833,No
+New York City,Male,30,97221,No
+New York City,Female,40,85415,No
+New York City,Female,48,88687,No
+New York City,Male,59,95464,No
+New York City,Male,45,108534,Yes
+New York City,Female,45,86923,Yes
+New York City,Male,31,110248,No
+New York City,Female,52,84599,No
+New York City,Female,59,89779,No
+New York City,Female,36,100843,No
+New York City,Male,38,94858,No
+New York City,Male,32,94762,No
+New York City,Male,63,84724,No
+New York City,Male,34,125776,No
+New York City,Male,59,108237,No
+New York City,Male,38,106244,No
+New York City,Male,38,108314,Yes
+New York City,Female,39,75143,No
+New York City,Male,58,113570,No
+New York City,Female,57,88198,No
+New York City,Female,64,105495,No
+New York City,Female,30,94696,Yes
+New York City,Male,54,91565,No
+New York City,Female,32,76613,No
+New York City,Female,30,72529,No
+New York City,Male,36,94880,No
+New York City,Female,49,83359,No
+New York City,Female,62,84013,No
+New York City,Male,58,110338,No
+New York City,Male,39,108710,No
+New York City,Male,29,99139,No
+New York City,Female,28,64283,No
+New York City,Female,40,83018,No
+New York City,Male,43,104896,No
+New York City,Female,55,88899,No
+New York City,Male,53,108615,No
+New York City,Male,55,103917,No
+New York City,Male,51,98360,No
+New York City,Female,59,126519,No
+New York City,Female,44,88212,No
+New York City,Female,51,84007,No
+New York City,Male,60,108250,No
+New York City,Male,54,93762,No
+New York City,Female,54,99529,No
+New York City,Male,52,106043,No
+New York City,Male,37,93661,No
+New York City,Male,59,92177,No
+New York City,Male,38,97253,No
+New York City,Male,45,98410,No
+New York City,Female,63,89493,Yes
+New York City,Female,48,92492,No
+New York City,Male,42,112604,No
+New York City,Male,61,96091,No
+New York City,Female,42,89806,No
+New York City,Male,55,94491,No
+New York City,Male,41,121302,No
+New York City,Male,38,90426,No
+New York City,Male,45,103916,No
+New York City,Female,46,81078,No
+New York City,Female,36,85523,Yes
+New York City,Male,49,124244,No
+New York City,Female,27,93676,No
+New York City,Female,65,90258,No
+New York City,Male,39,100789,No
+New York City,Female,49,82919,No
+New York City,Female,49,81628,No
+New York City,Male,52,109189,No
+New York City,Male,28,102972,No
+New York City,Male,33,90030,No
+New York City,Male,38,100921,No
+New York City,Male,37,100710,No
+New York City,Male,56,91640,No
+New York City,Female,41,83344,No
+New York City,Female,65,93750,No
+New York City,Male,31,99190,No
+New York City,Female,26,73208,Yes
+New York City,Female,39,95759,No
+New York City,Female,56,89597,No
+New York City,Male,58,119124,No
+New York City,Male,65,105947,Yes
+New York City,Male,41,108032,No
+New York City,Male,38,87473,No
+New York City,Male,53,95928,No
+New York City,Male,55,99019,No
+New York City,Male,29,101239,No
+New York City,Female,35,98749,No
+New York City,Male,54,86878,No
+New York City,Male,26,93152,Yes
+New York City,Male,37,112907,No
+New York City,Male,50,120066,No
+New York City,Male,42,93307,No
+New York City,Male,58,102406,Yes
+New York City,Male,31,92264,No
+New York City,Male,42,94979,No
+New York City,Male,42,98797,No
+New York City,Male,43,111728,No
+New York City,Male,41,117682,No
+New York City,Male,42,113373,No
+New York City,Female,58,97284,Yes
+New York City,Male,42,114150,No
+New York City,Female,27,94662,No
+New York City,Female,44,76275,No
+New York City,Male,34,108700,Yes
+New York City,Male,40,99626,No
+New York City,Male,52,97337,No
+New York City,Male,47,111702,No
+New York City,Male,39,107980,No
+New York City,Female,51,106190,No
+New York City,Male,50,99416,No
+New York City,Female,40,101909,No
+New York City,Male,62,105456,No
+New York City,Female,31,80412,No
+New York City,Male,31,105908,No
+New York City,Female,34,85980,Yes
+New York City,Male,29,109090,No
+New York City,Female,52,95382,No
+New York City,Male,33,114456,No
+New York City,Male,58,109551,No
+New York City,Female,57,100437,No
+New York City,Female,25,85603,No
+New York City,Male,51,77000,No
+New York City,Male,28,99834,No
+New York City,Male,53,105955,No
+New York City,Female,42,80496,No
+New York City,Male,55,91283,No
+New York City,Male,29,111588,No
+New York City,Female,31,90719,No
+New York City,Male,44,81940,No
+New York City,Male,31,104201,Yes
+New York City,Male,48,103304,No
+New York City,Male,39,95952,No
+New York City,Male,51,109466,No
+New York City,Female,43,96141,No
+New York City,Female,44,85252,No
+New York City,Female,45,89368,No
+New York City,Female,33,85846,No
+New York City,Male,48,100472,No
+New York City,Male,31,100640,No
+New York City,Male,58,99851,No
+New York City,Male,42,101346,No
+New York City,Female,41,103816,No
+New York City,Female,60,94497,No
+New York City,Female,36,91805,No
+New York City,Male,29,111789,No
+New York City,Male,49,102550,No
+New York City,Female,60,84661,No
+New York City,Female,31,102102,No
+New York City,Male,58,99480,No
+New York City,Male,63,125310,No
+New York City,Male,51,100920,No
+New York City,Male,30,85103,No
+New York City,Female,44,84560,No
+New York City,Male,39,103909,No
+New York City,Female,28,102791,No
+New York City,Female,32,102818,No
+New York City,Male,65,84342,No
+New York City,Male,64,110736,No
+New York City,Male,54,104299,No
+New York City,Female,36,78224,No
+New York City,Male,56,130131,No
+New York City,Male,30,128355,No
+New York City,Female,43,90120,No
+New York City,Male,47,94640,No
+New York City,Male,38,102169,Yes
+New York City,Female,46,87666,Yes
+New York City,Male,33,84383,No
+New York City,Male,59,104691,No
+New York City,Female,48,94520,No
+New York City,Male,33,101579,No
+New York City,Male,26,110302,No
+New York City,Male,55,89910,No
+New York City,Male,41,106888,No
+New York City,Female,39,89519,No
+New York City,Male,51,98645,No
+New York City,Female,50,92568,No
+New York City,Male,44,74912,No
+New York City,Male,52,93787,No
+New York City,Male,29,96994,No
+New York City,Female,39,99302,No
+New York City,Male,26,112515,No
+New York City,Male,60,114001,No
+New York City,Female,57,106908,No
+New York City,Female,46,76882,No
+New York City,Female,42,91364,No
+New York City,Female,61,98844,No
+New York City,Male,57,108302,Yes
+New York City,Female,29,91219,No
+New York City,Male,39,96578,No
+New York City,Female,30,101448,No
+New York City,Male,48,102657,No
+New York City,Female,59,94694,Yes
+New York City,Male,29,110345,No
+New York City,Female,36,82027,No
+New York City,Male,51,104345,No
+New York City,Female,57,90237,No
+New York City,Male,48,98953,No
+New York City,Male,59,94959,No
+New York City,Male,45,104667,No
+New York City,Male,39,102073,No
+New York City,Female,57,100430,No
+New York City,Female,26,65282,No
+New York City,Female,64,90306,No
+New York City,Female,31,81810,No
+New York City,Male,49,102338,Yes
+New York City,Female,53,103807,No
+New York City,Male,30,105905,No
+New York City,Female,28,112814,No
+New York City,Male,47,92961,No
+New York City,Female,27,102455,No
+New York City,Male,38,96045,No
+New York City,Female,56,68066,No
+New York City,Female,37,83245,No
+New York City,Female,31,100260,Yes
+New York City,Male,27,124494,No
+New York City,Male,28,108124,No
+New York City,Female,50,82260,Yes
+New York City,Female,40,87095,No
+New York City,Male,43,102220,Yes
+New York City,Female,43,86547,No
+New York City,Female,49,108261,No
+New York City,Male,46,102733,No
+New York City,Male,30,86488,No
+New York City,Female,53,92413,No
+New York City,Male,33,110894,No
+New York City,Female,62,100617,No
+New York City,Male,43,110741,No
+New York City,Male,50,102713,No
+New York City,Female,46,92654,No
+New York City,Female,46,97116,No
+New York City,Female,43,89678,No
+New York City,Female,34,91539,No
+New York City,Female,60,88897,No
+New York City,Male,64,90355,No
+New York City,Female,38,82063,No
+New York City,Female,38,83723,No
+New York City,Male,49,101737,No
+New York City,Male,26,105366,No
+New York City,Male,42,114695,No
+New York City,Male,61,108712,No
+New York City,Female,59,60609,Yes
+New York City,Male,30,102353,No
+New York City,Male,55,99229,No
+New York City,Female,43,79640,No
+New York City,Male,57,105335,No
+New York City,Male,38,100650,No
+New York City,Female,54,99049,No
+New York City,Male,44,88427,No
+New York City,Male,39,91573,No
+New York City,Male,34,107815,No
+New York City,Female,53,97478,No
+New York City,Male,56,94153,No
+New York City,Female,42,88001,No
+New York City,Male,35,106251,No
+New York City,Male,60,98985,No
+New York City,Male,61,93334,No
+New York City,Male,61,111715,Yes
+New York City,Female,60,101412,No
+New York City,Female,30,97156,Yes
+New York City,Male,38,100199,No
+New York City,Female,56,96206,No
+New York City,Male,43,95822,No
+New York City,Female,61,88356,No
+New York City,Female,41,74278,No
+New York City,Female,34,84838,No
+New York City,Male,59,91017,No
+New York City,Female,60,72371,Yes
+New York City,Male,62,115154,No
+New York City,Male,64,87401,No
+New York City,Female,51,104848,No
+New York City,Female,32,91805,No
+New York City,Male,38,101295,No
+New York City,Male,48,103321,No
+New York City,Male,40,91373,No
+New York City,Male,61,100505,No
+New York City,Male,29,104002,No
+New York City,Female,45,100004,No
+New York City,Male,42,89324,No
+New York City,Male,35,99723,No
+New York City,Male,28,99008,No
+New York City,Female,41,83676,No
+New York City,Female,52,90799,No
+New York City,Female,39,87761,No
+New York City,Female,36,91501,No
+New York City,Male,51,115391,No
+New York City,Male,46,98710,No
+New York City,Female,34,98815,Yes
+New York City,Male,50,103731,No
+New York City,Female,57,81537,No
+New York City,Male,50,122694,No
+New York City,Female,59,93264,No
+New York City,Male,29,105423,No
+New York City,Male,39,108229,No
+New York City,Female,36,64381,No
+New York City,Male,58,99467,No
+New York City,Male,43,89032,No
+New York City,Female,44,77718,Yes
+New York City,Female,52,92596,No
+New York City,Female,57,91218,No
+New York City,Male,36,91656,No
+New York City,Male,58,107325,No
+New York City,Female,30,76376,No
+New York City,Male,64,101522,No
+New York City,Male,34,94834,No
+New York City,Female,60,99535,No
+New York City,Female,45,91320,No
+New York City,Male,55,85606,No
+New York City,Female,61,75158,Yes
+New York City,Male,46,116639,Yes
+New York City,Female,37,87434,No
+New York City,Female,37,89020,No
+New York City,Female,37,94113,No
+New York City,Female,38,99474,No
+New York City,Female,38,83880,No
+New York City,Female,59,75843,No
+New York City,Female,63,104987,No
+New York City,Male,46,119435,No
+New York City,Male,47,106568,No
+New York City,Male,64,89353,No
+New York City,Female,32,74145,No
+New York City,Male,42,114964,No
+New York City,Female,63,87163,No
+New York City,Male,48,107144,No
+New York City,Female,52,72565,No
+New York City,Male,54,100767,No
+New York City,Female,39,82517,No
+New York City,Male,27,110205,No
+New York City,Female,65,100483,No
+New York City,Male,64,99972,No
+New York City,Female,27,88918,No
+New York City,Male,51,92103,No
+New York City,Female,52,84543,No
+New York City,Female,55,74492,No
+New York City,Female,29,99249,No
+New York City,Male,47,99591,No
+New York City,Female,60,91429,No
+New York City,Female,63,105781,No
+New York City,Male,41,104164,No
+New York City,Male,29,119455,No
+New York City,Male,62,99213,No
+New York City,Male,56,99443,No
+New York City,Male,32,119742,No
+New York City,Male,35,102160,Yes
+New York City,Male,36,102718,No
+New York City,Male,61,121089,No
+New York City,Male,38,110130,No
+New York City,Male,28,117580,No
+New York City,Female,35,98733,No
+New York City,Male,48,94272,No
+New York City,Female,30,91456,No
+New York City,Male,57,107224,Yes
+New York City,Female,38,92738,No
+New York City,Male,42,110409,No
+New York City,Male,46,92232,No
+New York City,Male,36,118691,No
+New York City,Female,25,111099,No
+New York City,Female,47,98042,No
+New York City,Male,53,104094,No
+New York City,Male,35,89352,No
+New York City,Female,52,91919,No
+New York City,Male,31,104482,No
+New York City,Female,28,94115,No
+New York City,Female,61,100136,No
+New York City,Male,59,113938,No
+New York City,Female,56,108433,No
+New York City,Male,48,102676,No
+New York City,Female,40,100270,No
+New York City,Male,53,102066,No
+New York City,Female,49,102318,No
+New York City,Male,64,96731,No
+New York City,Female,49,82726,Yes
+New York City,Male,41,113406,Yes
+New York City,Male,33,98462,No
+New York City,Male,63,88063,No
+New York City,Male,34,94291,No
+New York City,Male,31,106945,No
+New York City,Male,56,98839,Yes
+New York City,Female,36,92252,No
+New York City,Female,38,92480,No
+New York City,Male,53,98098,No
+New York City,Female,61,100248,No
+New York City,Male,30,101480,Yes
+New York City,Male,36,102021,No
+New York City,Male,25,114441,No
+New York City,Male,32,86825,No
+New York City,Male,53,77540,No
+New York City,Male,40,109400,No
+New York City,Male,29,99912,No
+New York City,Male,31,97625,No
+New York City,Male,62,100983,No
+New York City,Female,43,87382,No
+New York City,Male,55,91149,Yes
+New York City,Male,33,108690,Yes
+New York City,Female,43,90688,No
+New York City,Female,60,80735,No
+New York City,Female,27,88101,Yes
+New York City,Male,41,104238,No
+New York City,Female,44,91149,No
+New York City,Male,32,89902,No
+New York City,Male,58,99697,No
+New York City,Male,41,92209,No
+New York City,Male,61,101135,No
+New York City,Female,26,101985,Yes
+New York City,Female,59,85582,No
+New York City,Female,64,89170,No
+New York City,Male,65,88086,No
+New York City,Male,39,98450,No
+New York City,Female,50,85249,No
+New York City,Female,65,98593,No
+New York City,Male,40,100322,No
+New York City,Male,62,113764,No
+New York City,Male,63,102880,No
+New York City,Male,38,94773,No
+New York City,Male,46,108351,No
+New York City,Female,38,87473,No
+New York City,Male,25,99074,No
+New York City,Male,59,100489,No
+New York City,Male,35,83849,No
+New York City,Male,34,115196,No
+New York City,Female,37,83628,No
+New York City,Female,42,92408,No
+New York City,Male,56,98748,No
+New York City,Male,39,110502,Yes
+New York City,Male,32,116208,No
+New York City,Male,46,103455,No
+New York City,Male,29,91612,No
+New York City,Female,43,94276,No
+Austin,Male,34,107524,No
+Austin,Male,31,99680,No
+Austin,Female,47,81998,No
+Austin,Female,47,94053,No
+Austin,Male,47,88519,No
+Austin,Male,26,104146,No
+Austin,Female,58,92824,No
+Austin,Male,35,85335,No
+Austin,Male,41,94296,No
+Austin,Female,47,116889,No
+Austin,Female,60,72650,No
+Austin,Male,27,105602,No
+Austin,Male,56,109300,No
+Austin,Female,49,99532,No
+Austin,Male,36,90114,No
+Austin,Male,27,97319,Yes
+Austin,Male,60,111095,No
+Austin,Female,61,88606,No
+Austin,Male,52,99488,No
+Austin,Female,39,77748,No
+Austin,Male,45,107881,No
+Austin,Male,36,102322,No
+Austin,Female,32,71616,No
+Austin,Female,42,88280,No
+Austin,Female,38,88179,No
+Austin,Female,61,95690,No
+Austin,Female,42,84512,No
+Austin,Female,49,92300,No
+Austin,Male,47,91062,No
+Austin,Female,44,105573,No
+Austin,Male,59,87528,No
+Austin,Female,35,77678,No
+Austin,Female,51,90339,No
+Austin,Male,25,97175,No
+Austin,Female,25,91822,No
+Austin,Male,64,103907,No
+Austin,Male,53,99183,No
+Austin,Male,34,102575,No
+Austin,Female,39,83582,No
+Austin,Female,29,77063,No
+Austin,Female,44,79146,No
+Austin,Male,33,88780,No
+Austin,Male,33,116198,No
+Austin,Female,49,81881,No
+Austin,Male,30,78941,No
+Austin,Male,53,108625,No
+Austin,Female,54,82905,No
+Austin,Male,55,105472,Yes
+Austin,Male,37,100465,No
+Austin,Male,48,82567,No
+Austin,Male,65,103694,No
+Austin,Male,42,93613,No
+Austin,Female,44,91415,No
+Austin,Female,43,93168,No
+Austin,Male,43,75171,No
+Austin,Female,40,69613,No
+Austin,Male,63,94528,No
+Austin,Female,31,81500,No
+Austin,Female,31,90125,No
+Austin,Female,55,87167,No
+Austin,Male,31,97788,No
+Austin,Male,34,93624,No
+Austin,Male,61,95518,No
+Austin,Female,48,81432,Yes
+Austin,Male,64,90493,Yes
+Austin,Female,35,83462,No
+Austin,Male,43,104465,No
+Austin,Female,56,94210,Yes
+Austin,Female,27,75081,No
+Austin,Male,43,82292,Yes
+Austin,Male,32,100058,Yes
+Austin,Female,59,80672,No
+Austin,Male,52,100671,No
+Austin,Male,62,75835,No
+Austin,Female,49,85358,No
+Austin,Male,32,101424,No
+Austin,Male,53,83795,Yes
+Austin,Male,37,82257,Yes
+Austin,Male,60,92998,No
+Austin,Male,36,92466,No
+Austin,Female,43,69152,No
+Austin,Male,50,104592,Yes
+Austin,Female,37,74532,No
+Austin,Female,42,100741,No
+Austin,Male,60,84659,No
+Austin,Female,34,86436,No
+Austin,Male,36,100361,No
+Austin,Male,59,83729,No
+Austin,Male,52,99940,No
+Austin,Male,49,71695,No
+Austin,Female,31,87668,No
+Austin,Female,56,94265,No
+Austin,Female,51,87659,No
+Austin,Female,47,92737,No
+Austin,Male,65,94383,Yes
+Austin,Female,25,85534,Yes
+Austin,Female,38,75462,No
+Austin,Male,52,105356,No
+Austin,Female,41,71121,No
+Austin,Male,55,103260,No
+Austin,Male,62,92089,Yes
+Austin,Female,48,81606,No
+Austin,Male,37,100904,No
+Austin,Male,43,91802,No
+Austin,Male,26,106029,No
+Austin,Male,44,98477,No
+Austin,Female,50,81766,No
+Austin,Male,63,107791,No
+Austin,Female,31,98779,No
+Austin,Male,57,75137,No
+Austin,Male,37,88451,No
+Austin,Male,26,72861,No
+Austin,Female,48,76675,No
+Austin,Male,55,99853,No
+Austin,Male,46,90882,No
+Austin,Female,60,76737,Yes
+Austin,Female,44,69492,No
+Austin,Female,49,93182,No
+Austin,Male,63,105488,No
+Austin,Male,34,87117,No
+Austin,Female,50,88973,No
+Austin,Male,29,88441,No
+Austin,Male,48,88798,No
+Austin,Female,64,73135,No
+Austin,Male,53,77959,No
+Austin,Male,32,76555,No
+Austin,Male,59,87391,No
+Austin,Male,46,85117,No
+Austin,Male,39,73495,No
+Austin,Female,57,64341,No
+Austin,Female,54,82336,No
+Austin,Male,61,77135,No
+Austin,Male,41,92839,No
+Austin,Male,51,88828,No
+Austin,Male,44,95498,No
+Austin,Male,48,86824,No
+Austin,Male,29,96404,No
+Austin,Male,60,106731,No
+Austin,Male,44,86094,No
+Austin,Male,27,101098,No
+Austin,Female,52,64716,Yes
+Austin,Female,58,97416,No
+Austin,Male,56,80291,No
+Austin,Male,40,76696,No
+Austin,Male,59,65573,No
+Austin,Male,63,103993,No
+Austin,Male,29,92198,No
+Austin,Male,62,92467,No
+Austin,Female,62,90759,No
+Austin,Male,33,92962,No
+Austin,Male,48,88235,No
+Austin,Male,44,81976,No
+Austin,Female,54,89004,No
+Austin,Female,54,90155,No
+Austin,Female,28,94222,No
+Austin,Female,55,100021,No
+Austin,Female,53,96807,No
+Austin,Male,61,93123,No
+Austin,Female,27,71311,No
+Austin,Male,48,91144,No
+Austin,Male,44,118722,No
+Austin,Male,48,103834,No
+Austin,Male,31,78911,No
+Austin,Female,55,86129,No
+Austin,Female,40,96734,No
+Austin,Female,26,80041,No
+Austin,Male,57,86920,No
+Austin,Female,62,84719,No
+Austin,Female,28,81400,No
+Austin,Male,45,87470,No
+Austin,Male,46,94857,No
+Austin,Female,50,83108,No
+Austin,Male,55,86255,No
+Austin,Male,61,75131,No
+Austin,Male,38,97825,No
+Austin,Male,39,68336,No
+Austin,Female,44,60868,No
+Austin,Male,38,92705,No
+Austin,Male,62,85038,No
+Austin,Male,64,113221,Yes
+Austin,Female,25,66847,No
+Austin,Female,34,82152,No
+Austin,Female,58,76502,No
+Austin,Male,41,87493,No
+Austin,Male,44,101097,No
+Austin,Male,54,86972,No
+Austin,Male,54,88106,No
+Austin,Male,36,99425,No
+Austin,Male,31,85299,No
+Austin,Male,33,69701,No
+Austin,Male,56,83796,No
+Austin,Male,47,100632,No
+Austin,Male,34,79184,No
+Austin,Male,60,87792,No
+Austin,Male,27,102458,No
+Austin,Male,61,87745,No
+Austin,Female,39,84586,No
+Austin,Female,25,90200,No
+Austin,Male,32,86576,No
+Austin,Male,61,109225,No
+Austin,Female,43,91712,No
+Austin,Male,50,96452,No
+Austin,Female,59,89029,No
+Austin,Female,40,80117,No
+Austin,Female,37,92601,No
+Austin,Female,37,105153,No
+Austin,Male,48,82259,No
+Austin,Male,54,90132,No
+Austin,Female,62,88454,No
+Austin,Male,39,107932,No
+Austin,Female,47,101021,No
+Austin,Male,33,86146,No
+Austin,Male,27,105111,No
+Austin,Female,51,84439,No
+Austin,Male,53,111261,No
+Austin,Male,34,86022,No
+Austin,Female,42,80570,No
+Austin,Male,32,94515,No
+Austin,Female,38,93228,No
+Austin,Female,32,81407,No
+Austin,Male,29,87807,No
+Austin,Male,51,84607,No
+Austin,Female,62,83241,No
+Austin,Male,45,101067,No
+Austin,Male,34,80432,No
+Austin,Male,57,105167,No
+Austin,Male,52,107730,No
+Austin,Female,31,96283,No
+Austin,Female,52,85148,No
+Austin,Male,35,102931,Yes
+Austin,Female,45,103799,No
+Austin,Female,53,91026,No
+Austin,Female,49,77407,No
+Austin,Male,63,96648,No
+Austin,Male,40,85919,No
+Austin,Female,33,81648,No
+Austin,Female,44,92457,No
+Austin,Female,35,76864,No
+Austin,Male,29,93863,No
+Austin,Male,56,70481,No
+Austin,Female,37,93311,No
+Austin,Male,31,102237,No
+Austin,Male,28,93950,Yes
+Austin,Male,30,101722,No
+Austin,Male,45,83028,No
+Austin,Male,32,64863,No
+Austin,Male,39,89099,No
+Austin,Male,55,104962,No
+Austin,Female,37,67593,No
+Austin,Male,46,122138,No
+Austin,Male,54,99906,No
+Austin,Female,39,96291,No
+Austin,Male,29,91673,No
+Austin,Female,44,70724,No
+Austin,Female,62,56254,No
+Austin,Female,53,84749,No
+Austin,Male,63,99186,No
+Austin,Male,54,83937,No
+Austin,Female,28,96162,No
+Austin,Male,41,105023,No
+Austin,Female,54,82358,No
+Austin,Female,62,84491,No
+Austin,Male,32,110565,No
+Austin,Female,63,99950,No
+Austin,Female,30,76928,No
+Austin,Male,46,84395,No
+Austin,Female,52,77272,No
+Austin,Female,39,90430,No
+Austin,Female,51,92132,No
+Austin,Male,49,91519,No
+Austin,Male,51,107123,No
+Austin,Male,58,100949,No
+Austin,Male,43,86737,No
+Austin,Female,53,89384,Yes
+Austin,Male,50,77134,No
+Austin,Female,47,92157,No
+Austin,Female,25,92482,No
+Austin,Male,51,99075,No
+Austin,Female,25,74947,No
+Austin,Female,63,80381,No
+Austin,Female,55,62501,No
+Austin,Female,26,77823,No
+Austin,Male,52,83688,No
+Austin,Female,26,82163,No
+Austin,Male,51,97510,No
+Austin,Male,37,88408,No
+Austin,Male,64,89906,No
+Austin,Female,37,106097,No
+Austin,Male,48,93669,No
+Austin,Male,25,96748,No
+Austin,Male,26,111885,No
+Austin,Male,25,111878,No
+Austin,Female,37,87251,No
+San Diego,Female,46,109911,No
+San Diego,Male,29,93109,No
+San Diego,Female,34,101092,Yes
+San Diego,Male,32,109838,No
+San Diego,Male,51,122349,No
+San Diego,Female,58,90456,No
+San Diego,Male,58,94500,No
+San Diego,Female,42,103549,No
+San Diego,Male,42,92611,No
+San Diego,Male,41,94249,No
+San Diego,Male,36,108441,Yes
+San Diego,Female,26,88431,No
+San Diego,Male,55,98921,Yes
+San Diego,Female,53,85936,No
+San Diego,Male,58,94167,No
+San Diego,Male,49,101787,No
+San Diego,Female,52,84537,No
+San Diego,Female,30,99583,No
+San Diego,Female,35,98247,No
+San Diego,Male,31,100220,No
+San Diego,Female,28,93651,No
+San Diego,Female,40,80970,No
+San Diego,Male,59,115335,No
+San Diego,Female,61,93352,No
+San Diego,Female,44,102073,No
+San Diego,Male,39,102178,No
+San Diego,Male,45,94111,No
+San Diego,Male,46,92405,No
+San Diego,Male,63,117378,No
+San Diego,Female,58,101352,Yes
+San Diego,Male,46,99458,No
+San Diego,Female,46,102883,No
+San Diego,Female,58,90608,No
+San Diego,Male,25,96090,No
+San Diego,Male,63,102652,No
+San Diego,Male,58,109049,No
+San Diego,Male,64,103033,No
+San Diego,Male,32,104840,No
+San Diego,Female,64,114130,No
+San Diego,Male,63,100692,No
+San Diego,Female,25,85139,No
+San Diego,Male,32,103824,No
+San Diego,Male,57,112297,No
+San Diego,Male,62,117615,Yes
+San Diego,Male,28,87249,No
+San Diego,Male,27,107572,No
+San Diego,Female,48,102186,No
+San Diego,Male,63,110818,No
+San Diego,Male,55,105047,No
+San Diego,Male,36,108776,No
+San Diego,Female,46,88406,No
+San Diego,Male,30,104357,No
+San Diego,Male,34,86029,No
+San Diego,Male,54,81133,Yes
+San Diego,Female,58,95612,No
+San Diego,Male,43,106175,Yes
+San Diego,Male,26,107139,No
+San Diego,Male,56,101415,No
+San Diego,Female,59,91492,No
+San Diego,Female,31,101096,No
+San Diego,Male,44,106534,No
+San Diego,Female,45,83793,No
+San Diego,Male,62,77075,No
+San Diego,Female,26,106235,No
+San Diego,Male,50,100565,Yes
+San Diego,Male,29,110675,Yes
+San Diego,Female,38,105114,No
+San Diego,Male,62,101083,No
+San Diego,Female,48,99479,No
+San Diego,Male,59,97897,No
+San Diego,Male,64,90520,No
+San Diego,Female,48,95342,No
+San Diego,Female,52,102020,No
+San Diego,Female,41,97496,No
+San Diego,Male,36,115536,No
+San Diego,Female,56,89438,Yes
+San Diego,Female,45,90675,No
+San Diego,Male,36,108181,No
+San Diego,Male,51,116619,No
+San Diego,Male,60,80740,No
+San Diego,Male,38,84416,No
+San Diego,Male,45,102215,No
+San Diego,Male,58,105412,No
+San Diego,Male,30,115451,No
+San Diego,Male,32,102087,No
+San Diego,Female,27,85735,No
+San Diego,Male,54,120668,Yes
+San Diego,Female,48,104299,No
+San Diego,Female,27,95474,No
+San Diego,Male,26,103651,No
+San Diego,Male,63,110072,No
+San Diego,Male,63,92362,Yes
+San Diego,Male,37,91991,No
+San Diego,Female,32,85526,No
+San Diego,Male,29,113546,No
+San Diego,Female,63,96133,No
+San Diego,Female,29,76201,No
+San Diego,Female,51,94313,No
+San Diego,Male,42,128518,No
+San Diego,Female,60,90649,Yes
+San Diego,Male,58,93024,No
+San Diego,Male,41,90405,No
+San Diego,Male,61,90932,No
+San Diego,Male,53,101206,No
+San Diego,Male,56,99526,No
+San Diego,Female,39,111174,No
+San Diego,Male,55,90866,No
+San Diego,Male,52,105462,No
+San Diego,Male,38,90713,No
+San Diego,Female,58,82657,No
+San Diego,Female,46,92957,No
+San Diego,Male,31,97201,Yes
+San Diego,Male,54,119814,No
+San Diego,Male,28,103682,No
+San Diego,Female,41,79400,Yes
+San Diego,Female,59,110575,No
+San Diego,Male,57,97352,Yes
+San Diego,Male,31,110847,No
+San Diego,Male,55,97032,No
+San Diego,Male,29,115514,No
+San Diego,Female,34,94037,No
+San Diego,Female,29,89961,No
+San Diego,Male,37,119072,Yes
+San Diego,Male,29,109884,No
+San Diego,Male,35,89280,No
+San Diego,Female,60,96000,No
+San Diego,Female,63,108166,No
+San Diego,Male,54,98935,No
+San Diego,Male,58,95712,No
+San Diego,Male,52,103330,No
+San Diego,Female,39,90636,No
+San Diego,Female,47,92208,No
+San Diego,Male,52,94702,No
+San Diego,Female,61,105261,Yes
+San Diego,Female,28,90174,No
+San Diego,Female,27,98143,No
+San Diego,Male,27,99938,No
+San Diego,Female,48,102753,No
+San Diego,Male,50,112865,No
+San Diego,Male,32,102770,No
+San Diego,Male,39,104066,Yes
+San Diego,Female,38,103602,No
+San Diego,Female,44,94456,No
+San Diego,Female,51,86441,No
+San Diego,Female,46,94111,No
+San Diego,Male,46,97739,No
+San Diego,Male,27,107199,No
+San Diego,Female,56,89128,No
+San Diego,Female,46,102547,No
+San Diego,Female,42,80189,No
+San Diego,Male,41,91056,No
+San Diego,Male,54,117541,No
+San Diego,Male,27,90138,No
+San Diego,Male,41,73555,No
+San Diego,Male,46,95711,No
+San Diego,Female,40,98310,No
+San Diego,Female,54,91133,No
+San Diego,Male,36,110725,No
+San Diego,Male,44,86308,No
+San Diego,Male,49,100219,No
+San Diego,Male,47,124420,No
+San Diego,Male,43,108237,Yes
+San Diego,Male,33,98911,No
+San Diego,Male,42,115284,No
+San Diego,Male,58,111591,No
+San Diego,Male,47,94535,No
+San Diego,Male,64,125068,No
+San Diego,Female,49,88770,No
+San Diego,Male,51,101641,No
+San Diego,Female,39,93010,No
+San Diego,Female,40,66009,No
+San Diego,Male,26,109562,No
+San Diego,Male,48,117967,No
+San Diego,Male,37,129641,No
+San Diego,Female,32,93831,No
+San Diego,Male,49,103959,No
+San Diego,Female,31,106954,No
+San Diego,Female,42,97097,No
+San Diego,Male,28,91740,No
+San Diego,Male,27,107763,No
+San Diego,Female,64,89423,No
+San Diego,Female,34,101756,No
+San Diego,Female,27,111299,No
+San Diego,Female,41,101426,No
+San Diego,Male,35,105907,No
+San Diego,Male,53,110662,No
+San Diego,Male,46,94070,No
+San Diego,Male,40,113621,No
+San Diego,Female,56,89997,No
+San Diego,Male,25,115252,No
+San Diego,Male,39,102883,No
+San Diego,Male,45,85304,No
+San Diego,Male,38,93088,Yes
+San Diego,Female,43,80369,No
+San Diego,Female,52,108491,No
+San Diego,Female,53,87312,Yes
+San Diego,Male,63,104237,No
+San Diego,Male,42,84937,Yes
+San Diego,Male,50,91870,No
+San Diego,Female,37,86085,No
+San Diego,Female,46,99780,No
+San Diego,Female,56,81391,No
+San Diego,Female,37,89996,No
+San Diego,Female,54,94882,Yes
+San Diego,Male,63,123529,No
+San Diego,Male,59,82883,No
+San Diego,Male,56,92335,No
+San Diego,Female,30,106735,Yes
+San Diego,Male,36,110583,No
+San Diego,Female,32,106874,No
+San Diego,Male,46,116101,No
+San Diego,Female,62,83670,No
+San Diego,Male,25,108411,No
+San Diego,Male,45,112864,No
+San Diego,Female,41,98048,No
+San Diego,Male,58,104462,No
+San Diego,Female,36,97928,No
+San Diego,Male,32,109814,No
+San Diego,Female,57,93065,No
+San Diego,Female,41,82180,No
+San Diego,Female,61,88204,No
+San Diego,Male,27,116785,No
+San Diego,Male,63,100614,No
+San Diego,Female,26,102898,No
+San Diego,Female,29,91564,No
+San Diego,Female,34,100536,No
+San Diego,Male,39,89390,No
+San Diego,Male,29,106406,No
+San Diego,Female,56,97734,Yes
+San Diego,Male,58,114231,No
+San Diego,Male,48,129083,No
+San Diego,Female,54,87005,No
+San Diego,Male,61,110937,No
+San Diego,Male,38,122121,No
+San Diego,Female,48,90358,Yes
+San Diego,Male,37,122592,No
+San Diego,Male,37,113985,No
+San Diego,Male,47,103276,No
+San Diego,Male,51,110020,No
+San Diego,Female,54,85996,No
+San Diego,Male,56,117506,No
+San Diego,Male,65,106322,No
+San Diego,Female,62,85837,No
+San Diego,Male,35,104833,Yes
+San Diego,Male,25,90274,No
+San Diego,Female,45,78858,No
+San Diego,Male,32,115711,Yes
+San Diego,Male,58,101021,No
+San Diego,Male,30,94673,No
+San Diego,Female,45,74613,No
+San Diego,Male,44,90653,No
+San Diego,Male,30,122136,No
+San Diego,Female,45,93706,No
+San Diego,Female,43,93905,Yes
+San Diego,Male,54,107182,Yes
+San Diego,Male,42,105304,No
+San Diego,Male,37,114454,No
+San Diego,Male,54,91615,No
+San Diego,Male,57,101612,No
+San Diego,Female,27,103264,No
+San Diego,Male,52,88421,No
+San Diego,Male,62,99161,No
+San Diego,Male,25,98598,No
+San Diego,Male,61,106177,No
+San Diego,Male,27,119703,No
+San Diego,Male,46,112613,No
+San Diego,Male,63,87507,No
+San Diego,Male,54,92638,No
+San Diego,Female,33,100561,No
+San Diego,Male,45,103473,No
+San Diego,Male,49,100701,No
+San Diego,Female,48,97583,No
+San Diego,Female,60,104723,No
+San Diego,Male,47,90853,No
+San Diego,Male,55,88653,No
+San Diego,Female,46,109403,No
+San Diego,Male,60,88211,No
+San Diego,Female,52,78167,No
+San Diego,Male,26,101250,No
+San Diego,Male,65,103255,No
+San Diego,Male,30,102164,No
+San Diego,Female,33,89034,Yes
+San Diego,Male,37,102920,No
+San Diego,Male,59,123028,No
+San Diego,Male,34,110608,Yes
+San Diego,Male,50,106122,No
+San Diego,Female,37,96701,No
+San Diego,Male,54,109171,No
+San Diego,Male,44,106298,No
+San Diego,Male,32,87735,No
+San Diego,Female,56,98877,No
+San Diego,Male,53,90709,No
+San Diego,Male,33,95786,Yes
+San Diego,Female,46,73077,No
+San Diego,Female,62,100220,No
+San Diego,Female,51,87803,No
+San Diego,Female,33,94384,No
+San Diego,Female,60,103692,No
+San Diego,Female,40,84021,No
+San Diego,Male,57,114055,No
+San Diego,Female,56,109153,No
+San Diego,Male,64,109636,Yes
+San Diego,Male,53,107648,No
+San Diego,Male,32,110047,No
+San Diego,Female,63,69919,No
+San Diego,Male,45,98181,No
+San Diego,Female,32,91539,No
+San Diego,Female,25,88436,No
+San Diego,Male,36,111658,No
+San Diego,Male,62,94340,No
+San Diego,Male,61,98266,No
+San Diego,Male,37,113121,No
+San Diego,Female,48,98614,No
+San Diego,Male,62,103010,No
+San Diego,Male,27,109791,No
+San Diego,Female,57,87876,No
+San Diego,Female,50,116513,No
+San Diego,Female,31,113723,Yes
+San Diego,Male,63,90281,No
+San Diego,Female,63,103053,No
+San Diego,Male,62,111909,No
+San Diego,Female,54,96135,No
+San Diego,Male,43,93986,No
+San Diego,Female,57,99073,No
+San Diego,Male,42,88261,No
+San Diego,Female,34,73634,No
+San Diego,Male,59,111018,No
+San Diego,Female,33,110525,No
+San Diego,Female,47,89417,No
+San Diego,Female,51,103159,No
+San Diego,Female,45,104902,Yes
+San Diego,Male,42,104867,No
+San Diego,Male,63,120181,No
+San Diego,Female,52,92736,No
+San Diego,Female,62,105786,No
+San Diego,Male,32,102341,No
+San Diego,Female,29,93749,No
+San Diego,Male,47,90139,No
+San Diego,Female,53,84776,No
+San Diego,Male,43,103292,No
+San Diego,Male,44,114531,No
+San Diego,Male,55,107960,No
+San Diego,Female,44,91317,No
+San Diego,Male,44,99404,No
+San Diego,Male,33,114199,No
+San Diego,Male,58,90750,No
+San Diego,Female,63,97352,No
+San Diego,Male,56,100295,No
+San Diego,Male,40,115250,No
+San Diego,Female,43,104559,No
+San Diego,Male,57,104617,No
+San Diego,Female,25,110916,No
+San Diego,Male,28,106412,No
+San Diego,Female,52,100722,No
+San Diego,Male,58,114686,No
+San Diego,Female,34,77438,No
+San Diego,Male,33,112707,No
+San Diego,Female,51,95408,Yes
+San Diego,Male,36,78945,No
+San Diego,Male,52,96459,No
+San Diego,Female,36,107044,No
+San Diego,Male,31,113953,No
+San Diego,Male,33,95218,No
+San Diego,Female,46,97278,No
+San Diego,Male,43,95675,No
+San Diego,Female,54,110162,No
+San Diego,Male,48,87358,No
+San Diego,Male,29,117634,No
+San Diego,Female,50,84869,No
+San Diego,Male,56,100961,No
+San Diego,Male,38,97733,No
+San Diego,Male,55,85443,No
+San Diego,Female,33,79213,No
+San Diego,Male,64,105943,Yes
+San Diego,Male,64,104048,No
+San Diego,Male,40,107670,No
+San Diego,Male,38,112663,Yes
+San Diego,Male,50,105849,No
+San Diego,Female,52,108661,No
+San Diego,Male,49,97900,No
+San Diego,Female,58,100121,Yes
+San Diego,Male,38,107510,No
+San Diego,Male,25,100731,Yes
+San Diego,Male,42,96129,No
+San Diego,Male,27,99121,No
+San Diego,Female,53,118737,No
+San Diego,Male,46,115495,No
+San Diego,Male,35,104339,No
+San Diego,Female,43,92472,No
+San Diego,Female,25,85039,No
+San Diego,Female,33,89738,No
+San Diego,Female,60,81454,No
+San Diego,Male,26,98957,No
+San Diego,Female,49,77687,No
+San Diego,Male,63,111029,No
+San Diego,Male,59,100366,No
+San Diego,Male,54,89976,No
+San Diego,Male,28,84352,No
+San Diego,Female,53,89910,No
+San Diego,Male,64,122277,No
+San Diego,Female,57,106030,No
+San Diego,Female,40,97627,No
+San Diego,Male,60,100035,No
+San Diego,Male,53,104018,No
+San Diego,Male,47,111394,No
+San Diego,Female,32,90222,No
+San Diego,Male,28,105660,No
+San Diego,Female,52,84286,No
+San Diego,Male,28,99743,No
+San Diego,Male,34,87544,No
+San Diego,Male,41,103800,Yes
+San Diego,Male,59,92458,No
+San Diego,Male,45,98190,No
+San Diego,Male,50,96631,No
+San Diego,Male,58,90915,No
+San Diego,Male,25,117122,No
+San Diego,Female,65,91501,No
+San Diego,Male,46,91107,No
+San Diego,Male,58,113327,No
+San Diego,Male,48,81773,Yes
+San Diego,Male,54,105035,No
+San Diego,Female,62,102575,No
+San Diego,Female,42,106344,No
+San Diego,Male,54,95551,No
+San Diego,Female,59,100586,No
+San Diego,Female,54,102966,No
+San Diego,Female,31,113851,No
+San Diego,Male,57,108416,No
+San Diego,Female,43,79055,No
+San Diego,Male,50,113451,No
+San Diego,Female,54,93827,No
+San Diego,Male,63,111059,Yes
+San Diego,Male,33,101370,No
+San Diego,Female,40,98350,No
+San Diego,Female,41,91585,Yes
+San Diego,Female,44,110840,No
+San Diego,Male,26,90793,No
+San Diego,Male,26,97268,No
+San Diego,Male,30,101605,No
+San Diego,Female,59,95348,No
+San Diego,Female,42,93182,No
+San Diego,Male,28,109692,No
+San Diego,Male,50,102346,No
+San Diego,Female,41,96095,No
+San Diego,Male,54,102850,No
+San Diego,Female,43,91455,No
+San Diego,Male,61,82439,Yes
+San Diego,Male,40,113083,No
+San Diego,Female,55,89666,No
+San Diego,Female,55,91315,No
+San Diego,Male,57,105181,No
+San Diego,Male,43,100592,No
+San Diego,Male,48,110357,No
+San Diego,Female,27,97393,No
+San Diego,Female,51,78019,Yes
+San Diego,Male,26,100614,No
+San Diego,Male,64,99718,No
+San Diego,Male,30,118077,Yes
+San Diego,Female,49,113123,No
+San Diego,Male,58,107087,No
+San Diego,Female,34,89083,No
+San Diego,Female,46,115585,No
+San Diego,Male,53,104652,No
+San Diego,Male,28,103370,No
+San Diego,Male,32,95111,No
+San Diego,Female,53,107826,No
+San Diego,Female,62,112352,No
+San Diego,Male,63,118143,No
+San Diego,Female,27,84726,No
+San Diego,Male,51,112295,No
+San Diego,Female,50,95490,No
+San Diego,Female,31,85337,No
+San Diego,Female,58,98251,No
+San Diego,Male,45,117019,No
+San Diego,Female,44,95030,No
+San Diego,Male,46,92359,No
+San Diego,Male,50,117686,No
+San Diego,Female,40,85183,No
+San Diego,Male,32,100494,No
+San Diego,Male,53,83791,No
+San Diego,Female,33,104782,No
+San Diego,Female,62,97333,No
+San Diego,Male,58,114113,No
+San Diego,Male,35,108441,No
+San Diego,Female,64,97756,No
+San Diego,Male,64,122845,No
+San Diego,Male,40,105268,No
+San Diego,Female,48,71658,No
+San Diego,Female,63,92491,No
+San Diego,Female,58,91350,No
+San Diego,Male,46,111342,No
+San Diego,Male,26,108701,Yes
+San Diego,Male,53,116114,No
+San Diego,Male,37,92864,Yes
+San Diego,Female,64,80557,No
+San Diego,Male,36,93193,Yes
+San Diego,Female,31,106937,No
+San Diego,Male,48,112817,No
+San Diego,Female,30,95167,No
+San Diego,Female,35,117456,No
+San Diego,Male,63,114048,No
+San Diego,Female,65,89429,No
+San Diego,Male,48,86481,No
+San Diego,Female,57,88879,Yes
+San Diego,Male,54,99448,No
+San Diego,Male,44,116627,No
+San Diego,Male,48,103611,No
+San Diego,Female,32,84498,No
+San Diego,Male,37,84716,No
+San Diego,Female,53,98426,No
+San Diego,Male,26,105410,No
+San Diego,Female,32,112968,No
+San Diego,Male,44,104656,No
+San Diego,Female,35,98658,No
+San Diego,Male,50,96706,No
+San Diego,Male,62,122963,No
+San Diego,Male,57,115614,No
+San Diego,Female,55,90841,No
+San Diego,Male,42,116242,No
+San Diego,Female,32,100070,No
+San Diego,Female,51,106610,No
+San Diego,Female,36,91246,No
+San Diego,Male,47,103934,No
+San Diego,Male,62,108851,No
+San Diego,Female,26,101932,No
+San Diego,Male,65,97739,No
+San Diego,Male,25,123092,No
+San Diego,Female,39,92608,No
+San Diego,Male,45,121501,Yes
+San Diego,Male,49,96057,No
+San Diego,Male,26,117320,No
+San Diego,Female,55,104266,No
+San Diego,Female,53,96951,No
+San Diego,Male,39,104646,No
+San Diego,Female,46,93823,No
+San Diego,Male,50,107085,No
+San Diego,Female,64,97316,No
+San Diego,Male,53,100277,No
+San Diego,Female,50,88208,No
+San Diego,Male,37,102675,No
+San Diego,Male,53,107162,No
+San Diego,Male,44,117325,Yes
+San Diego,Female,55,105969,No
+San Diego,Female,37,88185,No
+San Diego,Male,63,121690,Yes
+San Diego,Female,39,97152,No
+San Diego,Female,57,97262,Yes
+San Diego,Male,59,111444,No
+San Diego,Female,54,88978,No
+San Diego,Male,40,101435,No
+San Diego,Male,38,119065,No
+San Diego,Female,32,113412,No
+San Diego,Female,64,99203,No
+San Diego,Male,34,108924,Yes
+San Diego,Female,46,108848,No
+San Diego,Male,36,98711,No
+San Diego,Male,64,103717,No
+San Diego,Male,48,122147,No
+San Diego,Male,37,97228,No
+San Diego,Male,36,101953,No
+San Diego,Male,60,99486,Yes
+San Diego,Female,28,91448,Yes
+San Diego,Male,38,112685,No
+San Diego,Male,29,98748,No
+San Diego,Male,26,108818,No
+San Diego,Male,44,89596,No
+San Diego,Female,42,97268,No
+San Diego,Female,53,87320,No
+San Diego,Female,35,70598,No
+San Diego,Female,38,107543,No
+San Diego,Male,64,95756,No
+San Diego,Male,57,104135,No
+San Diego,Male,64,102809,No
+San Diego,Female,38,98543,No
+San Diego,Male,48,123533,No
+San Diego,Male,38,98306,No
+San Diego,Female,44,88488,No
+San Diego,Female,49,98861,No
+San Diego,Male,40,122006,No
+San Diego,Male,64,103103,No
+San Diego,Male,38,129745,No
+San Diego,Female,60,101007,No
+San Diego,Male,46,90707,No
+San Diego,Female,63,83227,No
+San Diego,Female,65,101945,No
+San Diego,Male,46,93283,No
+San Diego,Male,60,95913,No
+San Diego,Female,54,101643,No
+San Diego,Male,30,90710,No
+San Diego,Male,50,97653,No
+San Diego,Male,65,102307,No
+San Diego,Male,48,106099,No
+San Diego,Female,29,74174,No
+San Diego,Male,43,90001,No
+San Diego,Female,50,87720,No
+San Diego,Male,34,110406,No
+San Diego,Male,39,107554,No
+San Diego,Female,44,101015,No
+San Diego,Male,53,97742,No
+San Diego,Male,46,100197,No
+San Diego,Male,56,102118,No
+San Diego,Female,59,93716,No
+San Diego,Female,31,95175,No
+San Diego,Male,60,107393,No
+San Diego,Female,34,76549,No
+San Diego,Male,31,95144,No
+San Diego,Female,28,98761,No
+San Diego,Female,59,76830,No
+San Diego,Female,35,83169,No
+San Diego,Female,45,98869,No
+San Diego,Male,64,106049,No
+San Diego,Male,45,113548,No
+San Diego,Female,33,93851,No
+San Diego,Male,46,97020,No
+San Diego,Female,34,112281,No
+San Diego,Male,29,109399,No
+San Diego,Female,26,103129,No
+San Diego,Female,62,88701,No
+San Diego,Male,58,83222,No
+San Diego,Male,44,87865,No
+San Diego,Female,30,92445,No
+San Diego,Male,28,102461,No
+San Diego,Male,35,109689,No
+San Diego,Male,40,102930,No
+San Diego,Male,64,103882,No
+San Diego,Male,64,116547,No
+San Diego,Female,46,85787,No
+San Diego,Female,31,116593,No
+San Diego,Male,65,102194,No
+San Diego,Female,41,93689,No
+San Diego,Female,54,93729,No
+San Diego,Female,39,82663,No
+San Diego,Male,65,115415,No
+San Diego,Female,54,88880,Yes
+San Diego,Male,54,114003,No
+San Diego,Male,30,109031,No
+San Diego,Female,58,108996,No
+San Diego,Male,40,117306,No
+San Diego,Male,28,113051,No
+San Diego,Male,42,89480,No
+San Diego,Female,33,93688,No
+San Diego,Male,39,97382,Yes
+San Diego,Male,31,102734,No
+San Diego,Male,60,117412,No
+San Diego,Female,30,103600,No
+San Diego,Male,47,110627,No
+San Diego,Male,35,114885,No
+San Diego,Female,45,101195,No
+San Diego,Male,60,105964,Yes
+San Diego,Female,42,101798,No
+San Diego,Female,29,99306,No
+San Diego,Female,56,86799,No
+San Diego,Male,39,107827,No
+San Diego,Male,50,96358,No
+San Diego,Male,64,113791,No
+San Diego,Male,59,109505,No
+San Diego,Male,39,105038,No
+San Diego,Male,45,115064,No
+San Diego,Male,43,93340,No
+San Diego,Female,45,79700,No
+San Diego,Male,39,94941,No
+San Diego,Female,51,87147,No
+San Diego,Male,54,118507,No
+San Diego,Female,27,89504,No
+San Diego,Female,31,86917,No
+San Diego,Female,62,98710,No
+San Diego,Female,44,93806,No
+San Diego,Female,47,87772,No
+San Diego,Male,62,117688,No
+San Diego,Male,62,105185,Yes
+San Diego,Female,64,93365,Yes
+San Diego,Male,65,93395,No
+San Diego,Male,34,116430,No
+San Diego,Male,41,103539,No
+San Diego,Male,65,97634,No
+San Diego,Female,34,92341,No
+San Diego,Male,61,95508,No
+San Diego,Female,28,91875,No
+San Diego,Male,42,107755,No
+San Diego,Male,48,103738,No
+San Diego,Male,59,103117,No
+San Diego,Male,44,103452,No
+San Diego,Female,29,86898,No
+San Diego,Male,43,84710,No
+San Diego,Male,30,107574,No
+San Diego,Female,44,94927,No
+San Diego,Male,45,93604,No
+San Diego,Male,48,94524,No
+San Diego,Male,56,131749,No
+San Diego,Male,33,99423,No
+San Diego,Female,64,95276,No
+San Diego,Female,30,88053,No
+San Diego,Male,64,101375,No
+San Diego,Male,57,99816,No
+San Diego,Female,49,92933,No
+San Diego,Female,53,91354,No
+San Diego,Male,51,122784,No
+San Diego,Female,54,95544,No
+San Diego,Female,43,106513,No
+San Diego,Female,62,96634,Yes
+San Diego,Male,26,99123,No
+San Diego,Female,64,90793,No
+San Diego,Male,45,113339,No
+San Diego,Female,50,77931,No
+San Diego,Female,51,86508,No
+San Diego,Male,28,123941,No
+San Diego,Male,49,99291,No
+San Diego,Female,31,92691,No
+San Diego,Male,59,107193,No
+San Diego,Male,57,95722,No
+San Diego,Female,62,105968,No
+San Diego,Male,42,101049,No
+San Diego,Male,39,123786,No
+San Diego,Female,59,82657,No
+San Diego,Male,50,82519,No
+San Diego,Male,58,94715,No
+San Diego,Female,40,83004,No
+San Diego,Male,31,107499,No
+San Diego,Female,42,93652,No
+San Diego,Male,45,113232,No
+San Diego,Female,52,93368,No
+San Diego,Female,33,104123,No
+San Diego,Male,37,95078,No
+San Diego,Female,32,110500,No
+San Diego,Male,31,105413,No
+San Diego,Male,27,107760,No
+San Diego,Male,42,126921,No
+San Diego,Female,65,105075,No
+San Diego,Male,57,105218,No
+San Diego,Female,49,95891,No
+San Diego,Female,27,104460,No
+San Diego,Female,65,103952,No
+San Diego,Male,50,95016,No
+San Diego,Male,60,112318,Yes
+San Diego,Male,44,103804,Yes
+San Diego,Male,60,82718,No
+San Diego,Male,59,89484,No
+San Diego,Female,34,90768,No
+San Diego,Female,41,83269,No
+San Diego,Male,56,93156,No
+San Diego,Female,58,82033,No
+San Diego,Female,54,91313,No
+San Diego,Female,26,100208,No
+San Diego,Male,50,115967,No
+San Diego,Male,56,105281,No
+San Diego,Male,25,107040,Yes
+San Diego,Female,28,85486,No
+San Diego,Male,33,108369,No
+San Diego,Female,65,83660,No
+San Diego,Female,37,97810,No
+San Diego,Female,27,101495,Yes
+San Diego,Female,45,87970,No
+San Diego,Female,37,95977,No
+San Diego,Female,46,95528,No
+San Diego,Female,28,87205,Yes
+San Diego,Male,33,104579,No
+San Diego,Male,48,124230,No
+San Diego,Male,44,106259,No
+San Diego,Male,34,106414,No
+San Diego,Female,40,109446,No
+San Diego,Male,29,115051,No
+San Diego,Female,26,116608,No
+San Diego,Female,26,82500,No
+San Diego,Male,33,120930,No
+San Diego,Female,45,93321,No
+San Diego,Male,50,118030,No
+San Diego,Male,54,128755,No
+San Diego,Male,28,97301,No
+San Diego,Female,47,103456,No
+San Diego,Female,34,106595,No
+San Diego,Female,49,83753,No
+San Diego,Female,38,79714,No
+San Diego,Female,28,97980,No
+San Diego,Male,51,93418,No
+San Diego,Female,35,69284,No
+San Diego,Male,34,114112,No
+San Diego,Female,64,103764,No
+San Diego,Male,58,102469,No
+San Diego,Female,29,92174,No
+San Diego,Male,64,96828,No
+San Diego,Male,25,84837,No
+San Diego,Male,45,101276,No
+San Diego,Female,37,89679,No
+San Diego,Male,43,122215,No
+San Diego,Male,37,104261,No
+San Diego,Female,34,104443,No
+San Diego,Male,35,107467,No
+San Diego,Female,59,101909,No
+San Diego,Female,43,93577,No
+San Diego,Male,25,89499,No
+San Diego,Male,59,109156,No
+San Diego,Female,44,112036,Yes
+San Diego,Female,42,94391,No
+San Diego,Female,30,68493,No
+San Diego,Male,45,107203,No
+San Diego,Female,41,84915,No
+San Diego,Male,49,108371,No
+San Diego,Female,39,91186,No
+San Diego,Male,53,106515,No
+San Diego,Male,34,99057,No
+San Diego,Male,47,102048,No
+San Diego,Male,57,112244,No
+San Diego,Male,49,105793,No
+San Diego,Female,65,94760,No
+San Diego,Female,55,95011,Yes
+San Diego,Male,27,110393,No
+San Diego,Female,26,107019,No
+San Diego,Male,49,94884,Yes
+San Diego,Male,61,110631,No
+San Diego,Male,46,100073,No
+San Diego,Male,36,86210,No
+San Diego,Female,61,91517,No
+San Diego,Female,57,105616,Yes
+San Diego,Male,57,113930,No
+San Diego,Male,41,100464,No
+San Diego,Male,57,98445,No
+San Diego,Female,30,104527,No
+San Diego,Female,39,85309,No
+San Diego,Male,54,125012,No
+San Diego,Male,27,108071,No
+San Diego,Female,48,96040,No
+San Diego,Male,31,101988,No
+San Diego,Female,63,92276,No
+San Diego,Male,59,92923,No
+San Diego,Male,61,108600,No
+San Diego,Male,29,102848,No
+San Diego,Male,33,93855,No
+San Diego,Female,41,93204,No
+San Diego,Female,56,103438,No
+San Diego,Female,59,94953,No
+San Diego,Male,26,112373,No
+San Diego,Female,38,86598,No
+San Diego,Female,59,80742,No
+San Diego,Male,43,96508,No
+San Diego,Male,47,128814,No
+San Diego,Female,65,91826,No
+San Diego,Female,38,111072,Yes
+San Diego,Male,51,100752,No
+San Diego,Male,62,108563,No
+San Diego,Male,53,105989,No
+San Diego,Female,29,86205,No
+San Diego,Female,29,99509,No
+San Diego,Male,35,107319,No
+San Diego,Male,38,109718,No
+San Diego,Female,28,111834,No
+San Diego,Female,51,99595,No
+San Diego,Male,46,116050,No
+San Diego,Male,50,104082,No
+San Diego,Male,45,98491,No
+San Diego,Male,58,102229,No
+San Diego,Male,63,117167,No
+San Diego,Female,45,113009,No
+San Diego,Male,32,113507,No
+San Diego,Female,58,98473,No
+San Diego,Female,55,91280,No
+San Diego,Female,37,91442,No
+San Diego,Female,29,96204,No
+San Diego,Female,58,84143,No
+San Diego,Female,36,94376,No
+San Diego,Male,40,138208,No
+San Diego,Male,30,114340,No
+San Diego,Male,42,110179,Yes
+San Diego,Female,51,86937,No
+Los Angeles,Male,31,71909,No
+Los Angeles,Male,31,97635,Yes
+Los Angeles,Female,37,99450,No
+Los Angeles,Male,32,106616,No
+Los Angeles,Male,39,114486,No
+Los Angeles,Female,63,71828,No
+Los Angeles,Female,56,98564,No
+Los Angeles,Male,52,92201,No
+Los Angeles,Male,43,88197,No
+Los Angeles,Female,39,97489,No
+Los Angeles,Male,54,96764,No
+Los Angeles,Female,32,93348,No
+Los Angeles,Female,64,119849,No
+Los Angeles,Female,64,89764,No
+Los Angeles,Male,38,102115,No
+Los Angeles,Male,45,108590,No
+Los Angeles,Male,54,103745,No
+Los Angeles,Female,48,86471,Yes
+Los Angeles,Male,31,85587,No
+Los Angeles,Female,38,113864,No
+Los Angeles,Female,30,97896,No
+Los Angeles,Female,64,98636,Yes
+Los Angeles,Male,25,126145,No
+Los Angeles,Female,30,93344,No
+Los Angeles,Female,49,91850,No
+Los Angeles,Male,46,108418,No
+Los Angeles,Male,37,95706,No
+Los Angeles,Male,32,106968,Yes
+Los Angeles,Male,63,86012,No
+Los Angeles,Female,41,100008,No
+Los Angeles,Male,56,104194,No
+Los Angeles,Female,51,86283,No
+Los Angeles,Female,47,90026,No
+Los Angeles,Male,52,96699,No
+Los Angeles,Male,50,91968,No
+Los Angeles,Male,47,86373,No
+Los Angeles,Male,51,77128,No
+Los Angeles,Female,57,74903,No
+Los Angeles,Female,38,74425,No
+Los Angeles,Male,36,106884,No
+Los Angeles,Male,31,101215,No
+Los Angeles,Female,62,93469,No
+Los Angeles,Male,46,95850,No
+Los Angeles,Male,49,105577,No
+Los Angeles,Male,27,105977,No
+Los Angeles,Male,32,78148,No
+Los Angeles,Male,35,87931,No
+Los Angeles,Male,54,94320,No
+Los Angeles,Female,48,85130,No
+Los Angeles,Female,61,81305,No
+Los Angeles,Female,61,95559,No
+Los Angeles,Female,37,86789,No
+Los Angeles,Male,54,105835,No
+Los Angeles,Male,36,121220,No
+Los Angeles,Female,42,107530,Yes
+Los Angeles,Male,45,119819,No
+Los Angeles,Male,47,104541,No
+Los Angeles,Male,42,97823,No
+Los Angeles,Female,50,88953,No
+Los Angeles,Male,25,90757,No
+Los Angeles,Female,29,98137,Yes
+Los Angeles,Female,55,92846,No
+Los Angeles,Male,50,99545,No
+Los Angeles,Male,49,86080,No
+Los Angeles,Male,34,102726,No
+Los Angeles,Female,40,100037,No
+Los Angeles,Male,34,110693,No
+Los Angeles,Male,53,113834,No
+Los Angeles,Male,45,93237,No
+Los Angeles,Male,42,96353,No
+Los Angeles,Female,49,100965,No
+Los Angeles,Male,36,98488,No
+Los Angeles,Male,47,88277,No
+Los Angeles,Male,44,99430,No
+Los Angeles,Male,55,95219,No
+Los Angeles,Male,29,94740,No
+Los Angeles,Male,54,102632,No
+Los Angeles,Female,57,79396,Yes
+Los Angeles,Male,50,102893,No
+Los Angeles,Male,31,102157,No
+Los Angeles,Female,52,94804,No
+Los Angeles,Female,38,92038,No
+Los Angeles,Female,58,81887,No
+Los Angeles,Male,59,90828,No
+Los Angeles,Male,34,117166,No
+Los Angeles,Female,43,86024,No
+Los Angeles,Female,64,85772,No
+Los Angeles,Female,57,108387,No
+Los Angeles,Female,47,96784,Yes
+Los Angeles,Female,41,78884,No
+Los Angeles,Male,57,93573,No
+Los Angeles,Male,53,108963,No
+Los Angeles,Male,29,90729,No
+Los Angeles,Male,41,97866,No
+Los Angeles,Male,48,110837,No
+Los Angeles,Female,61,97564,No
+Los Angeles,Male,26,106686,No
+Los Angeles,Female,40,86276,No
+Los Angeles,Male,36,97765,No
+Los Angeles,Male,29,110850,No
+Los Angeles,Male,32,89195,No
+Los Angeles,Female,37,95129,No
+Los Angeles,Female,47,88038,No
+Los Angeles,Male,44,109213,No
+Los Angeles,Male,61,95202,No
+Los Angeles,Female,37,79766,No
+Los Angeles,Male,58,97993,No
+Los Angeles,Female,58,105432,No
+Los Angeles,Male,64,92623,No
+Los Angeles,Male,53,116246,Yes
+Los Angeles,Female,60,93784,No
+Los Angeles,Male,61,96050,No
+Los Angeles,Male,31,105500,No
+Los Angeles,Female,61,84509,No
+Los Angeles,Female,49,85822,No
+Los Angeles,Male,54,98144,Yes
+Los Angeles,Male,44,102182,No
+Los Angeles,Male,44,111405,No
+Los Angeles,Male,57,100603,No
+Los Angeles,Female,51,88578,No
+Los Angeles,Female,54,102068,No
+Los Angeles,Male,57,83700,No
+Los Angeles,Female,59,85510,No
+Los Angeles,Male,26,105122,No
+Los Angeles,Female,57,86167,Yes
+Los Angeles,Female,26,84907,No
+Los Angeles,Female,59,80991,No
+Los Angeles,Male,44,98943,No
+Los Angeles,Male,36,93395,No
+Los Angeles,Male,27,103928,No
+Los Angeles,Male,27,89065,No
+Los Angeles,Male,51,81135,No
+Los Angeles,Female,25,90609,No
+Los Angeles,Female,59,95008,No
+Los Angeles,Male,39,91224,No
+Los Angeles,Male,49,108138,No
+Los Angeles,Female,51,96292,Yes
+Los Angeles,Female,26,111948,No
+Los Angeles,Male,31,104052,No
+Los Angeles,Female,41,79559,No
+Los Angeles,Male,60,89912,No
+Los Angeles,Male,49,92260,No
+Los Angeles,Male,60,89759,No
+Los Angeles,Female,64,82609,No
+Los Angeles,Female,36,86997,No
+Los Angeles,Male,43,93419,No
+Los Angeles,Male,30,100237,No
+Los Angeles,Male,45,94710,No
+Los Angeles,Male,63,93303,No
+Los Angeles,Female,55,80269,No
+Los Angeles,Male,55,88630,No
+Los Angeles,Male,56,101678,No
+Los Angeles,Male,33,100016,No
+Los Angeles,Female,62,87894,Yes
+Los Angeles,Male,42,93535,Yes
+Los Angeles,Male,36,118655,No
+Los Angeles,Male,30,105466,No
+Los Angeles,Male,42,110656,No
+Los Angeles,Female,32,93047,No
+Los Angeles,Female,57,86321,No
+Los Angeles,Female,35,85860,No
+Los Angeles,Female,61,81634,No
+Los Angeles,Female,44,81169,No
+Los Angeles,Female,51,75989,No
+Los Angeles,Male,57,97629,Yes
+Los Angeles,Male,42,88720,No
+Los Angeles,Female,51,78401,No
+Los Angeles,Female,26,93804,No
+Los Angeles,Male,39,87832,No
+Los Angeles,Female,60,85596,Yes
+Los Angeles,Male,54,115937,No
+Los Angeles,Male,30,85178,No
+Los Angeles,Female,52,91491,No
+Los Angeles,Male,56,101869,Yes
+Los Angeles,Male,37,96518,No
+Los Angeles,Male,37,100349,No
+Los Angeles,Male,28,100399,No
+Los Angeles,Female,29,87953,No
+Los Angeles,Male,39,101508,No
+Los Angeles,Female,34,72974,No
+Los Angeles,Male,29,88385,No
+Los Angeles,Male,38,95134,No
+Los Angeles,Male,49,128351,No
+Los Angeles,Female,64,95825,No
+Los Angeles,Male,37,116593,No
+Los Angeles,Female,30,85517,No
+Los Angeles,Female,25,84473,No
+Los Angeles,Male,36,96359,No
+Los Angeles,Female,39,84247,No
+Los Angeles,Male,38,85961,No
+Los Angeles,Male,58,89744,No
+Los Angeles,Female,30,106607,No
+Los Angeles,Male,44,96440,No
+Los Angeles,Female,36,94367,No
+Los Angeles,Male,55,104586,No
+Los Angeles,Female,33,94276,No
+Los Angeles,Female,44,87126,No
+Los Angeles,Female,45,84092,No
+Los Angeles,Female,40,96174,No
+Los Angeles,Female,53,76308,No
+Los Angeles,Female,36,82423,No
+Los Angeles,Male,34,102602,No
+Los Angeles,Male,47,107415,No
+Los Angeles,Female,32,86864,No
+Los Angeles,Male,43,98068,No
+Los Angeles,Male,57,97686,No
+Los Angeles,Female,29,93293,No
+Los Angeles,Female,36,94142,No
+Los Angeles,Female,64,115186,No
+Los Angeles,Male,63,107522,No
+Los Angeles,Female,44,97553,No
+Los Angeles,Male,33,99791,No
+Los Angeles,Female,50,78062,No
+Los Angeles,Male,62,82871,No
+Los Angeles,Male,49,101464,Yes
+Los Angeles,Male,40,96868,No
+Los Angeles,Female,32,95832,Yes
+Los Angeles,Female,46,77729,No
+Los Angeles,Female,34,96310,No
+Los Angeles,Female,41,92426,No
+Los Angeles,Female,52,94313,Yes
+Los Angeles,Male,33,104778,No
+Los Angeles,Female,59,77591,No
+Los Angeles,Female,41,80144,No
+Los Angeles,Female,60,93235,No
+Los Angeles,Male,55,99468,No
+Los Angeles,Male,32,107338,Yes
+Los Angeles,Male,36,122225,Yes
+Los Angeles,Male,62,100175,No
+Los Angeles,Male,59,83595,No
+Los Angeles,Female,40,71761,No
+Los Angeles,Female,43,79909,No
+Los Angeles,Female,52,98152,No
+Los Angeles,Male,47,109422,No
+Los Angeles,Female,60,96783,No
+Los Angeles,Male,25,98567,No
+Los Angeles,Female,51,90458,No
+Los Angeles,Female,47,95124,No
+Los Angeles,Female,42,71781,No
+Los Angeles,Male,27,97913,No
+Los Angeles,Male,42,105560,Yes
+Los Angeles,Female,48,90210,No
+Los Angeles,Male,35,100040,No
+Los Angeles,Female,37,102060,No
+Los Angeles,Male,35,100798,No
+Mountain View,Female,34,142042,No
+Mountain View,Female,54,124089,No
+Mountain View,Male,41,141719,No
+Mountain View,Female,25,121544,No
+Mountain View,Female,28,115162,No
+Mountain View,Male,62,129819,No
+Mountain View,Male,34,131945,No
+Mountain View,Female,53,134680,No
+Mountain View,Male,30,134639,No
+Mountain View,Male,26,133323,No
+Mountain View,Male,26,113318,No
+Mountain View,Male,58,123201,No
+Mountain View,Female,54,128709,No
+Mountain View,Female,60,128237,No
+Mountain View,Male,28,135831,No
+Mountain View,Female,47,129900,No
+Mountain View,Male,25,115735,No
+Mountain View,Male,30,145485,No
+Mountain View,Female,44,135697,No
+Mountain View,Male,45,141822,No
+Mountain View,Male,62,144150,No
+Mountain View,Male,57,166458,Yes
+Mountain View,Male,25,146828,No
+Mountain View,Male,46,140877,No
+Mountain View,Female,53,145539,No
+Mountain View,Male,60,140293,No
+Mountain View,Female,56,134366,No
+Mountain View,Male,35,145103,Yes
+Mountain View,Male,42,143715,No
+Mountain View,Male,51,149078,No
+Mountain View,Male,40,143334,No
+Mountain View,Male,30,131857,No
+Mountain View,Female,28,121529,No
+Mountain View,Female,53,139690,No
+Mountain View,Female,39,126963,No
+Mountain View,Female,37,139430,No
+Mountain View,Male,26,142894,No
+Mountain View,Male,43,148350,No
+Mountain View,Female,58,144970,No
+Mountain View,Female,61,119897,No
+Mountain View,Female,28,137783,Yes
+Mountain View,Male,27,136186,No
+Mountain View,Female,32,119089,No
+Mountain View,Male,54,142504,No
+Mountain View,Female,64,144821,No
+Mountain View,Female,49,132285,No
+Mountain View,Female,39,119134,No
+Mountain View,Female,37,133493,Yes
+Mountain View,Male,31,139674,No
+Mountain View,Male,39,127363,No
+Mountain View,Male,43,142699,No
+Mountain View,Female,61,134161,No
+Mountain View,Female,53,132142,No
+Mountain View,Male,29,132801,No
+Mountain View,Male,32,143606,No
+Mountain View,Male,56,141966,No
+Mountain View,Male,62,150696,No
+Mountain View,Female,33,126784,No
+Mountain View,Male,35,138537,No
+Mountain View,Male,31,131859,No
+Mountain View,Female,58,119286,No
+Mountain View,Male,43,163088,No
+Mountain View,Male,48,129617,No
+Mountain View,Female,33,129194,No
+Mountain View,Male,39,138340,No
+Mountain View,Male,29,164977,No
+Mountain View,Female,27,128618,No
+Mountain View,Male,34,133624,No
+Mountain View,Male,35,150625,No
+Mountain View,Male,38,136274,No
+Mountain View,Female,41,134024,No
+Mountain View,Male,45,128781,No
+Mountain View,Female,43,141258,No
+Mountain View,Female,32,123341,No
+Mountain View,Male,63,143702,No
+Mountain View,Male,60,127387,No
+Mountain View,Male,26,140258,No
+Mountain View,Male,57,138196,No
+Mountain View,Male,65,154389,Yes
+Mountain View,Female,28,126406,No
+Mountain View,Male,56,140862,No
+Mountain View,Male,32,141415,No
+Mountain View,Female,41,112011,No
+Mountain View,Male,55,147437,No
+Mountain View,Male,42,128398,No
+Mountain View,Male,46,159433,No
+Mountain View,Female,57,129425,No
+Mountain View,Female,36,126223,No
+Mountain View,Female,46,153153,Yes
+Mountain View,Male,41,134998,No
+Mountain View,Female,41,131272,No
+Mountain View,Male,48,162328,No
+Mountain View,Male,28,146171,No
+Mountain View,Male,49,124956,No
+Mountain View,Female,33,136775,No
+Mountain View,Male,30,138977,No
+Mountain View,Male,28,134706,No
+Mountain View,Male,65,138052,No
+Mountain View,Male,29,157773,No
+Mountain View,Male,42,137114,No
+Mountain View,Male,52,145811,No
+Mountain View,Male,63,143892,Yes
+Mountain View,Male,52,138260,No
+Mountain View,Male,54,117329,No
+Mountain View,Female,38,127386,No
+Mountain View,Female,43,108552,No
+Mountain View,Male,50,148650,Yes
+Mountain View,Female,45,130921,No
+Mountain View,Male,45,144821,No
+Mountain View,Male,31,157720,No
+Mountain View,Male,50,128517,No
+Mountain View,Male,55,137487,No
+Mountain View,Male,63,148015,No
+Mountain View,Female,26,134877,No
+Mountain View,Female,34,133809,No
+Mountain View,Female,43,135140,No
+Mountain View,Male,46,136074,Yes
+Mountain View,Male,28,147913,No
+Mountain View,Male,48,150749,Yes
+Mountain View,Female,64,123851,No
+Mountain View,Male,49,147675,No
+Mountain View,Female,40,123312,No
+Mountain View,Female,44,135392,No
+Mountain View,Female,35,112702,No
+Mountain View,Male,48,147294,No
+Mountain View,Male,27,149729,No
+Mountain View,Female,35,115068,No
+Mountain View,Male,57,146110,No
+Mountain View,Male,37,144817,No
+Mountain View,Male,64,123639,No
+Mountain View,Male,56,141946,No
+Mountain View,Female,50,129234,No
+Mountain View,Female,31,121037,Yes
+Mountain View,Male,29,138142,No
+Mountain View,Male,48,138376,No
+Mountain View,Female,27,147931,No
+Mountain View,Female,53,128953,No
+Mountain View,Male,28,149367,No
+Mountain View,Male,57,138695,No
+Mountain View,Male,57,143556,No
+Mountain View,Male,56,140801,No
+Mountain View,Male,34,140502,No
+Mountain View,Female,40,141037,No
+Mountain View,Male,64,125682,No
+Mountain View,Female,61,135308,No
+Mountain View,Male,44,133493,No
+Mountain View,Male,34,128934,No
+Mountain View,Male,59,132288,No
+Mountain View,Female,42,141968,No
+Mountain View,Female,61,124718,No
+Mountain View,Female,32,137014,No
+Mountain View,Male,58,153070,No
+Mountain View,Male,50,143581,No
+Mountain View,Male,37,140423,Yes
+Mountain View,Male,65,135378,No
+Mountain View,Female,58,149259,No
+Mountain View,Female,55,125779,No
+Mountain View,Male,49,146739,No
+Mountain View,Female,56,127015,No
+Mountain View,Male,31,152385,No
+Mountain View,Male,59,142432,No
+Mountain View,Male,39,126848,No
+Mountain View,Male,31,141521,No
+Mountain View,Male,61,136099,No
+Mountain View,Male,37,130234,No
+Mountain View,Male,58,141690,No
+Mountain View,Male,35,152208,No
+Mountain View,Male,41,152673,No
+Mountain View,Male,46,147029,No
+Mountain View,Male,49,144861,No
+Mountain View,Female,25,122590,No
+Mountain View,Female,30,143479,No
+Mountain View,Male,43,135557,No
+Mountain View,Male,52,134564,No
+Mountain View,Male,52,140273,No
+Mountain View,Female,48,132516,No
+Mountain View,Male,33,149761,No
+Mountain View,Female,47,124763,Yes
+Mountain View,Male,38,148329,Yes
+Mountain View,Female,37,134079,No
+Mountain View,Female,33,148852,No
+Mountain View,Female,25,124966,Yes
+Mountain View,Female,42,128105,No
+Mountain View,Male,46,132392,No
+Mountain View,Female,31,127202,No
+Mountain View,Male,35,154831,No
+Mountain View,Female,52,130973,No
+Mountain View,Male,61,148077,No
+Mountain View,Female,59,133641,No
+Mountain View,Female,50,131036,No
+Mountain View,Female,27,130995,No
+Mountain View,Male,43,154734,No
+Mountain View,Female,54,132103,No
+Mountain View,Male,35,145804,No
+Mountain View,Male,39,127532,No
+Mountain View,Female,64,148233,No
+Mountain View,Male,53,138432,No
+Mountain View,Male,37,140088,No
+Mountain View,Female,37,120716,No
+Mountain View,Male,59,153978,No
+Mountain View,Male,43,125443,No
+Mountain View,Female,42,123158,No
+Mountain View,Female,52,141327,No
+Mountain View,Male,59,143821,No
+Mountain View,Male,38,141846,No
+Mountain View,Female,42,141803,No
+Mountain View,Female,41,134015,No
+Mountain View,Male,44,134898,No
+Mountain View,Male,36,138595,No
+Mountain View,Female,37,126547,No
+Mountain View,Female,33,129845,No
+Mountain View,Male,60,118429,No
+Mountain View,Male,27,133505,No
+Mountain View,Female,47,116744,Yes
+Mountain View,Female,41,135885,No
+Mountain View,Female,59,131332,No
+Mountain View,Female,63,120030,No
+Mountain View,Male,48,146204,No
+Mountain View,Male,65,138818,No
+Mountain View,Female,31,126817,Yes
+Mountain View,Male,28,148601,No
+Mountain View,Male,56,138425,No
+Mountain View,Male,33,152813,Yes
+Mountain View,Male,54,142208,No
+Mountain View,Male,49,139858,No
+Mountain View,Female,50,143040,Yes
+Mountain View,Female,62,147446,No
+Mountain View,Male,28,137614,No
+Mountain View,Male,54,129948,No
+Mountain View,Male,32,153396,No
+Mountain View,Male,32,155400,No
+Mountain View,Male,31,131457,No
+Mountain View,Female,51,125839,No
+Mountain View,Female,27,130172,No
+Mountain View,Female,47,116998,No
+Mountain View,Male,31,147758,No
+Mountain View,Male,43,144698,No
+Mountain View,Female,50,134638,No
+Mountain View,Male,47,147226,No
+Mountain View,Female,52,128065,No
+Mountain View,Female,35,130620,No
+Mountain View,Male,41,129173,No
+Mountain View,Male,53,138655,No
+Mountain View,Female,38,123346,Yes
+Mountain View,Female,44,128799,No
+Mountain View,Female,45,127763,No
+Mountain View,Female,55,137909,Yes
+Mountain View,Male,56,151676,No
+Mountain View,Male,34,141332,No
+Mountain View,Male,31,127497,No
+Mountain View,Female,62,129033,No

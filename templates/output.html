@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Advertisement Detail Form </title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->
+	<link rel="icon" type="image/png" href="https://img.icons8.com/material-rounded/24/000000/form.png"/>
+<!--===============================================================================================-->
+	<link href="{{ url_for('static', filename='vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet" />
+<!--===============================================================================================-->
+	<link href="{{ url_for('static', filename='fonts/font-awesome-4.7.0/css/font-awesome.min.css') }}" rel="stylesheet" />
+<!--===============================================================================================-->
+	<link rel="stylesheet" href="{{ url_for('static', filename='fonts/Linearicons-Free-v1.0.0/icon-font.min.css') }}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" href="{{ url_for('static', filename='vendor/animate/animate.css') }}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" href="{{ url_for('static', filename='vendor/css-hamburgers/hamburgers.min.css') }}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" href="{{ url_for('static', filename='vendor/animsition/css/animsition.min.css') }}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" href="{{ url_for('static', filename='vendor/select2/select2.min.css') }}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='vendor/daterangepicker/daterangepicker.css') }}">
+<!--===============================================================================================-->
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/util.css') }}">
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+<!--===============================================================================================-->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+</head>
+<body>
+
+
+	<div class="container-contact100" style="background-image: url({{ url_for('static', filename='images/337228-PA00ZP-765.jpg') }}); background-attachment: fixed;  background-repeat: no-repeat; background-size: cover;">
+		<div ></div>
+
+		<div class="wrap-contact100" >
+			<div class="contact100-form-title" style="background-color: #3b5998;">
+				<span class="contact100-form-title-1">
+					Advertisement Specifications
+				</span>
+
+				<span class="contact100-form-title-2">
+					Confirm your entries!
+				</span>
+			</div>
+
+			<form class="contact100-form " action="/result" method="POST">
+				<div class="wrap-input100 " >
+					<span class="label-input100">Name of the Company:</span>
+					<input class="input100" type="text" name="name" value="{{n}}">
+					<span class="focus-input100"></span>
+				</div>
+
+				<div class="wrap-input100 " >
+					<span class="label-input100">Email:</span>
+					<input class="input100" type="text" name="email" value="{{e}}">
+					<span class="focus-input100"></span>
+				</div>
+
+				<div class="wrap-input100 " >
+					<span class="label-input100">Name of the Product:</span>
+					<input class="input100" type="text" name="product" value="{{p}}">
+					<span class="focus-input100"></span>
+				</div>
+
+				<div class="wrap-input100 ">
+					<span class="label-input100">Description about your Product:</span>
+					<textarea class="input100" name="description" placeholder="{{d}}"></textarea>
+					<span class="focus-input100"></span>
+				</div>
+				<div class="wrap-input200 ">
+<!-- city-->		<span class="label-input100">Any particular city you want to target?</span>
+					<input class="input100" type="text" name="city" value="{{c}}">
+					<span class="focus-input100"></span>
+				</div>
+				<!--<div class="wrap-input200 ">-->
+					<!--<div class="container">-->
+						<!--<div class="radio">-->
+						  <!--<input id="radio-1" name="city" class="city" type="checkbox" value="Dallas">-->
+						  <!--<label for="radio-1" class="radio-label " style="color: #555555">Dallas</label>-->
+						<!--</div>-->
+
+						<!--<div class="radio">-->
+						  <!--<input id="radio-2" name="city" class="city" type="checkbox" value="New York City">-->
+						  <!--<label  for="radio-2" class="radio-label " style="color: #555555">New York City</label>-->
+						<!--</div>-->
+
+						<!--<div class="radio">-->
+							<!--<input id="radio-3" name="city" class="city" type="checkbox" value="Austin">-->
+							<!--<label for="radio-3" class="radio-label " style="color: #555555">Austin</label>-->
+						<!--</div>-->
+
+						<!--<div class="radio">-->
+							<!--<input id="radio-4" name="city" class="city" type="checkbox" value="San Diego">-->
+							<!--<label for="radio-4" class="radio-label " style="color: #555555">San Diego</label>-->
+						<!--</div>-->
+
+						<!--<div class="radio">-->
+							<!--<input id="radio-5" name="city" class="city" type="checkbox" value="Las Angeles">-->
+							<!--<label for="radio-5" class="radio-label " style="color: #555555">Los Angeles</label>-->
+						<!--</div>-->
+
+						<!--<div class="radio">-->
+							<!--<input id="radio-6" name="city" class="city" type="checkbox" value="Mountain View">-->
+							<!--<label for="radio-6" class="radio-label " style="color: #555555">Mountain View</label>-->
+						<!--</div>-->
+
+						<!--<div class="radio wrap-input100">-->
+							<!--<input id="radio-7" name="city" class="city1" type="checkbox" value="No particular city">-->
+							<!--<label for="radio-7" class="radio-label " style="color: #555555">No particular city</label>-->
+						<!--</div>-->
+					<!--</div>-->
+				<!--</div>-->
+
+				<div class="wrap-input200">
+<!-- gender-->					<span class="label-input100">Which gender do you prefer?</span>
+					<input class="input100" type="text" name="gender" value="{{g}}">
+					<!-- <span class="focus-input100"></span> -->
+				</div>
+				<!--<div class="wrap-input200 ">-->
+					<!--<div class="container">-->
+						<!--<div class="radio">-->
+						  <!--<input id="male" name="gender" class="gender" type="checkbox" value="Male">-->
+						  <!--<label for="male" class="radio-label" style="color: #555555">Male</label>-->
+						<!--</div>-->
+						<!--<div class="radio">-->
+							<!--<input id="Female" name="gender" class="gender" type="checkbox" value="Female">-->
+							<!--<label for="Female" class="radio-label" style="color: #555555">Female</label>-->
+						<!--</div>-->
+						<!--<div class="radio wrap-input100">-->
+							<!--<input id="any" name="gender" class="gender1" type="checkbox" value="Doesn't matter">-->
+							<!--<label for="any" class="radio-label" style="color: #555555">Doesn't matter</label>-->
+						<!--</div>-->
+						<!--&lt;!&ndash; <div class="radio">-->
+							<!--<input id="any" name="gender" type="radio" checked>-->
+							<!--<label for="any" class="radio-label" style="color: #555555">Doesn't matter</label>-->
+							  <!--<div class="container">-->
+								<!--<div>-->
+									<!--<input id="male" name="gender" type="checkbox">-->
+									<!--<label for="male" class="radio-label" style="color: #555555">Male</label>-->
+								<!--</div>-->
+
+								<!--<div>-->
+									<!--<input id="Female" name="gender" type="checkbox">-->
+									<!--<label for="Female" class="radio-label" style="color: #555555">Female</label>-->
+								<!--</div>-->
+								<!--<div>-->
+									<!--<input id="any" name="gender" type="checkbox">-->
+									<!--<label for="any" class="radio-label" style="color: #555555">Doesn't matter</label>-->
+								<!--</div>-->
+						      <!--</div>-->
+						<!--</div> &ndash;&gt;-->
+
+						<!--&lt;!&ndash; <div class="radio wrap-input100">-->
+							<!--<input id="any" name="gender" type="radio">-->
+							<!--<label for="any" class="radio-label" style="color: #555555">Doesn't matter</label>-->
+						<!--</div> &ndash;&gt;-->
+
+					<!--</div>-->
+				<!--</div>-->
+<!-- age	-->			<div class="wrap-input200 ">
+						<span class="label-input100">Select the age range you want to prefer?</span>
+						<input class="input100" type="text" name="age" value="{{a}}">
+						<span class="focus-input100"></span>
+				</div>
+				<!--<div class="wrap-input200 ">-->
+						<!--<div class="container">-->
+					<!--<div>-->
+						<!--<input id="1" name="age" class="age" type="checkbox" value="Below 20">-->
+						<!--<label for="1" class="radio-label" style="color: #555555">Below 20</label>-->
+					<!--</div>-->
+					<!--<div>-->
+							<!--<input id="2" name="age" class="age" type="checkbox" value="20-40">-->
+							<!--<label for="2" class="radio-label" style="color: #555555">20-40</label>-->
+					<!--</div>-->
+					<!--<div>-->
+							<!--<input id="3" name="age" class="age" type="checkbox" value="40-60">-->
+							<!--<label for="3" class="radio-label" style="color: #555555">40-60</label>-->
+					<!--</div>-->
+					<!--<div >-->
+							<!--<input id="4" name="age" class="age" type="checkbox" value="60 above">-->
+							<!--<label for="4" class="radio-label" style="color: #555555">60 above</label>-->
+					<!--</div>-->
+					<!--<div class="radio wrap-input100">-->
+						<!--<input id="5" name="age" class="age1" type="checkbox" value="Doesn't matter">-->
+						<!--<label for="5" class="radio-label" style="color: #555555">Doesn't matter</label>-->
+					<!--</div>-->
+
+				<!--</div>-->
+
+<!-- income	-->			<div class="wrap-input200 ">
+						<span class="label-input100">Select the income range you want? </span>
+						<input class="input100" type="text" name="income" value="{{i}}">
+						<span class="focus-input100"></span>
+				</div>
+			<!--<div class="wrap-input200 ">-->
+					<!--<div class="container">-->
+				<!--<div>-->
+					<!--<input id="income1" name="income" class="income" type="checkbox" value="below 20,000">-->
+					<!--<label for="income1" class="radio-label" style="color: #555555"> below 20,000</label>-->
+				<!--</div>-->
+				<!--<div>-->
+						<!--<input id="income2" name="income" class="income" type="checkbox" value="20,000-60,000">-->
+						<!--<label for="income2" class="radio-label" style="color: #555555">20,000-60,000</label>-->
+				<!--</div>-->
+				<!--<div>-->
+						<!--<input id="income3" name="income" class="income" type="checkbox" value="60,000-100,000">-->
+						<!--<label for="income3" class="radio-label" style="color: #555555">60,000-100,000</label>-->
+				<!--</div>-->
+				<!--<div >-->
+					<!--<input id="income4" name="income" class="income" type="checkbox" value="100,000 above">-->
+					<!--<label for="income4" class="radio-label" style="color: #555555">100,000 above</label>-->
+				<!--</div>-->
+				<!--<div class="radio wrap-input100">-->
+					<!--<input id="income5" name="income" class="income1" type="checkbox" value="Doesn't matter">-->
+					<!--<label for="income5" class="radio-label" style="color: #555555">Doesn't matter</label>-->
+				<!--</div>-->
+			<!--</div>-->
+
+<!-- education	-->		<div class="wrap-input200 ">
+						<span class="label-input100">Select the education level you want to target? </span>
+						 <input class="input100" type="text" name="education" value="{{edu}}">
+						<span class="focus-input100"></span>
+				</div>
+			<!--<div class="wrap-input200 ">-->
+					<!--<div class="container">-->
+				<!--<div>-->
+					<!--<input id="edu1" name="education" class="education" type="checkbox" value="Below Highschool">-->
+					<!--<label for="edu1" class="radio-label" style="color: #555555">Below High School</label>-->
+				<!--</div>-->
+				<!--<div>-->
+						<!--<input id="edu2" name="education" class="education" type="checkbox" value="Highschoo">-->
+						<!--<label for="edu2" class="radio-label" style="color: #555555">High School</label>-->
+				<!--</div>-->
+				<!--<div>-->
+						<!--<input id="edu3" name="education" class="education" type="checkbox" value="Junior College">-->
+						<!--<label for="edu3" class="radio-label" style="color: #555555">Junior College</label>-->
+				<!--</div>-->
+				<!--<div>-->
+					<!--<input id="edu4" name="education" class="education" type="checkbox" value="Graduation">-->
+					<!--<label for="edu4" class="radio-label" style="color: #555555">Graduation</label>-->
+				<!--</div>-->
+				<!--<div >-->
+					<!--<input id="edu5" name="education" class="education" type="checkbox" value="Master">-->
+					<!--<label for="edu5" class="radio-label" style="color: #555555">Masters</label>-->
+				<!--</div>-->
+				<!--<div class="radio wrap-input100">-->
+					<!--<input id="edu6" name="education" class="education1" type="checkbox" value="Doesn't matter">-->
+					<!--<label for="edu6" class="radio-label" style="color: #555555">Doesn't matter</label>-->
+				<!--</div>-->
+			<!--</div>-->
+
+<!-- Marital Status	-->		<div class="wrap-input200 ">
+						<span class="label-input100">Select the Marital Status you want to target?</span>
+						<input class="input100" type="text" name="marital_status" value="{{ms}}">
+						<span class="focus-input100"></span>
+		 		</div>
+			<!--<div class="wrap-input200 ">-->
+					<!--<div class="container">-->
+				<!--<div>-->
+					<!--<input id="marital1" name="marital_status" class="marital" type="checkbox" value="Single">-->
+					<!--<label for="marital1" class="radio-label" style="color: #555555">Single</label>-->
+				<!--</div>-->
+				<!--<div>-->
+						<!--<input id="marital2" name="marital_status" class="marital" type="checkbox" value="Married">-->
+						<!--<label for="marital2" class="radio-label" style="color: #555555">Married</label>-->
+				<!--</div>-->
+				<!--<div>-->
+					<!--<input id="marital3" name="marital_status" class="marital" type="checkbox" value="Divorced">-->
+					<!--<label for="marital3" class="radio-label" style="color: #555555">Divorced</label>-->
+				<!--</div>-->
+				<!--<div class="radio wrap-input100">-->
+					<!--<input id="marital4" name="marital_status" class="marital1" type="checkbox" value="Doesn't matter">-->
+					<!--<label for="marital4" class="radio-label" style="color: #555555">Doesn't matter</label>-->
+				<!--</div>-->
+			<!--</div>-->
+
+<!-- Senior Citizen	-->		<div class="wrap-input200 ">
+				<span class="label-input100">Do you want to target a family with senior citizen?</span>
+				<input class="input100" type="text" name="senior" value="{{s}}">
+				<span class="focus-input100"></span>
+		 </div>
+	 <!--<div class="wrap-input200 ">-->
+			<!--<div class="container">-->
+		<!--<div>-->
+			<!--<input id="senior1" name="senior" class="senior" type="checkbox" value="Yes">-->
+			<!--<label for="senior1" class="radio-label" style="color: #555555"> Yes</label>-->
+		<!--</div>-->
+		<!--<div >-->
+			<!--<input id="senior2" name="senior" class="senior" type="checkbox" value="No">-->
+			<!--<label for="senior2" class="radio-label" style="color: #555555">No</label>-->
+		<!--</div>-->
+		<!--<div class="radio wrap-input100">-->
+			<!--<input id="senior3" name="senior" class="senior1" type="checkbox" value="Doesn't matter">-->
+			<!--<label for="senior3" class="radio-label" style="color: #555555">Doesn't matter</label>-->
+		<!--</div>-->
+
+	<!--</div>-->
+
+<!-- Internet Service	-->		<div class="wrap-input200 ">
+				<span class="label-input100">Is your product dependable on any particular internet service? </span>
+				<input class="input100" type="text" name="IS" value="{{internet}}">
+				<span class="focus-input100"></span>
+ 		</div>
+	<!--<div class="wrap-input200 ">-->
+		<!--<div class="container">-->
+		<!--<div>-->
+			<!--<input id="internet1" name="IS" class="internet" type="checkbox" value="DSL">-->
+			<!--<label for="internet1" class="radio-label" style="color: #555555"> DSL</label>-->
+		<!--</div>-->
+		<!--<div >-->
+			<!--<input id="internet2" name="IS" class="internet" type="checkbox" value="Fiber Optic">-->
+			<!--<label for="internet2" class="radio-label" style="color: #555555"> Fiber Optic</label>-->
+		<!--</div>-->
+		<!--<div class="radio wrap-input100">-->
+			<!--<input id="internet3" name="Is" class="internet1" type="checkbox" value="NO">-->
+			<!--<label for="internet3" class="radio-label" style="color: #555555">No</label>-->
+		<!--</div>-->
+	<!--</div>-->
+
+
+<!-- Citizenship	-->		<div class="wrap-input200 ">
+				<span class="label-input100">Is your product dependable on the citizenship of the person?</span>
+				<input class="input100" type="text" name="citizen" value="{{citizen}}">
+				<span class="focus-input100"></span>
+			</div>
+	<!--<div class="wrap-input200 ">-->
+		<!--<div class="container">-->
+		<!--<div>-->
+			<!--<input id="citizen1" name="citizen" class="citizen" type="checkbox" value="US Citizen">-->
+			<!--<label for="citizen1" class="radio-label" style="color: #555555"> US Citizen</label>-->
+		<!--</div>-->
+		<!--<div >-->
+			<!--<input id="citizen2" name="citizen" class="citizen" type="checkbox" value="Non US Citizen">-->
+			<!--<label for="citizen2" class="radio-label" style="color: #555555">Non US Citizen</label>-->
+		<!--</div>-->
+		<!--<div class="radio wrap-input100">-->
+			<!--<input id="citizen3" name="citizen" class="citizen1" type="checkbox" value="Doesn't matter">-->
+			<!--<label for="citizen3" class="radio-label" style="color: #555555">Doesn't matter</label>-->
+		<!--</div>-->
+	<!--</div>-->
+
+<!-- Insurance claim -->	<div class="wrap-input200 ">
+				<span class="label-input100">Is your product dependable on the Insurance claim of the person?</span>
+				<input class="input100" type="text" name="insurance" value="{{insurance}}">
+				<span class="focus-input100"></span>
+			</div>
+	<!--<div class="wrap-input200 ">-->
+		<!--<div class="container">-->
+		<!--<div>-->
+			<!--<input id="insurance1" name="insurance" class="insurance" type="checkbox" value="Yes">-->
+			<!--<label for="insurance1" class="radio-label" style="color: #555555"> Yes</label>-->
+		<!--</div>-->
+		<!--<div >-->
+			<!--<input id="insurance2" name="insurance" class="insurance" type="checkbox" value="No">-->
+			<!--<label for="insurance2" class="radio-label" style="color: #555555">No</label>-->
+		<!--</div>-->
+		<!--<div class="radio wrap-input100">-->
+			<!--<input id="insurance3" name="insurance" class="insurance1" type="checkbox" value="Doesn't matter">-->
+			<!--<label for="insurance3" class="radio-label" style="color: #555555">Doesn't matter</label>-->
+		<!--</div>-->
+	<!--</div>-->
+
+
+
+
+
+
+
+
+
+
+
+				<div class="container-contact100-form-btn">
+					<button class="contact100-form-btn">
+						<span>
+							Submit
+							<i class="fa fa-long-arrow-right m-l-7" aria-hidden="true"></i>
+						</span>
+					</button>
+				</div>
+			</form>
+		</div>
+	</div>
+
+
+
+	<div id="dropDownSelect1"></div>
+
+<!--===============================================================================================-->
+	<script src="{{ url_for('static', filename='vendor/jquery/jquery-3.2.1.min.js') }}"></script>
+<!--===============================================================================================-->
+	<script src="{{ url_for('static', filename='vendor/animsition/js/animsition.min.js') }}"></script>
+<!--===============================================================================================-->
+	<script src="{{ url_for('static', filename='vendor/bootstrap/js/popper.js') }}"></script>
+	<script src="{{ url_for('static', filename='vendor/bootstrap/js/bootstrap.min.js') }}"></script>
+<!--===============================================================================================-->
+	<script src="{{ url_for('static', filename='vendor/select2/select2.min.js') }}"></script>
+<!--===============================================================================================-->
+	<script src="{{ url_for('static', filename='vendor/daterangepicker/moment.min.js') }}"></script>
+	<script src="{{ url_for('static', filename='vendor/daterangepicker/daterangepicker.js') }}"></script>
+<!--===============================================================================================-->
+	<script src="{{ url_for('static', filename='vendor/countdowntime/countdowntime.js') }}"></script>
+<!--===============================================================================================-->
+	<!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAKFWBqlKAGCeS1rMVoaNlwyayu0e0YRes"></script>
+	<script src="js/map-custom.js"></script>-->
+<!--===============================================================================================-->
+	<script src="{{ url_for('static', filename='js/main.js') }}"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+	<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'UA-23581568-13');
+	</script> -->
+
+</body>
+
+
+<!--<script language="javascript">-->
+        <!--$('.city').click(function(){-->
+        	<!---->
+	        	<!--$('.city1').prop('checked', false);-->
+	    <!--})-->
+		<!--$('.city1').click(function(){-->
+			<!--$('.city').prop('checked', false);-->
+	    <!--})-->
+
+	  <!--$('.gender1').click(function(){-->
+			<!--$('.gender').prop('checked', false);-->
+	  <!--})-->
+	  <!--$('.gender').click(function(){-->
+			<!--$('.gender1').prop('checked', false);-->
+	  <!--})-->
+
+	  <!--$('.age1').click(function(){-->
+			<!--$('.age').prop('checked', false);-->
+	  <!--})-->
+	  <!--$('.age').click(function(){-->
+			<!--$('.age1').prop('checked', false);-->
+	  <!--})-->
+
+	  <!--$('.income1').click(function(){-->
+			<!--$('.income').prop('checked', false);-->
+	  <!--})-->
+
+	  <!--$('.income').click(function(){-->
+			<!--$('.income1').prop('checked', false);-->
+	  <!--})-->
+
+	  <!--$('.education1').click(function(){-->
+			<!--$('.education').prop('checked', false);-->
+	  <!--})-->
+
+	  <!--$('.education').click(function(){-->
+			<!--$('.education1').prop('checked', false);-->
+	  <!--})-->
+
+	  <!--$('.marital1').click(function(){-->
+			<!--$('.marital').prop('checked', false);-->
+	  <!--})-->
+	  <!--$('.marital').click(function(){-->
+			<!--$('.marital1').prop('checked', false);-->
+	  <!--})-->
+
+	  <!--$('.senior1').click(function(){-->
+			<!--$('.senior').prop('checked', false);-->
+	  <!--})-->
+	  <!--$('.senior').click(function(){-->
+			<!--$('.senior1').prop('checked', false);-->
+	  <!--})-->
+
+	  <!--$('.internet1').click(function(){-->
+			<!--$('.internet').prop('checked', false);-->
+	  <!--})-->
+	  <!--$('.internet').click(function(){-->
+			<!--$('.internet1').prop('checked', false);-->
+	  <!--})-->
+
+	  <!--$('.citizen1').click(function(){-->
+			<!--$('.citizen').prop('checked', false);-->
+	  <!--})-->
+	  <!--$('.citizen').click(function(){-->
+			<!--$('.citizen1').prop('checked', false);-->
+	  <!--})-->
+
+	  <!--$('.insurance1').click(function(){-->
+			<!--$('.insurance').prop('checked', false);-->
+	  <!--})-->
+	  <!--$('.insurance').click(function(){-->
+			<!--$('.insurance1').prop('checked', false);-->
+	  <!--})-->
+
+
+	  <!--</script>-->
+
+</html>
