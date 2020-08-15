@@ -17,7 +17,7 @@ The primary objective of this work is to provide the marketing professionals wit
 2. Project Layout
 	The project directory will contain:
 	
-	* templates/, a directory for all the template files that are  used.
+	* templates/, a directory for all the template files that are used.
 	* dataset/, a directory for all the datasets used. 
 	* static/, a directory for all the static files. 
 		-static directory contains following subdirectories:
@@ -35,7 +35,7 @@ The primary objective of this work is to provide the marketing professionals wit
 	
 	> python app.py
 
-	- This will take you to a web page where you are supposed to enter the details related to the product and then submit the form.  
+	- It will take you to a web page where you are supposed to enter details related to the product and then submit the form.  
 	- You will get a chance to check your entries through another web page and a user form.
 	- Then you will be redirected to another web page through which you can download the csv files containing the output.   
 
