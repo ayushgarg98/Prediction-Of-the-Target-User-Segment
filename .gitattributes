@@ -1,1 +1,3 @@
 *.css linguist-language=Python
+special-vendored-path/* linguist-vendored
+jquery.js -linguist-vendored
