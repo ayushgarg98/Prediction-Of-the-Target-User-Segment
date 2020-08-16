@@ -8,6 +8,7 @@ The primary objective of this work is to provide the marketing professionals wit
 	Run these commands in terminal to install the required libraries:
 	
 	> pip install flask
+	
 	> pip install numpy
 	> pip install pandas
 	> pip install matplotlib
