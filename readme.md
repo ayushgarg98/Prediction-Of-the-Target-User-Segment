@@ -10,9 +10,13 @@ The primary objective of this work is to provide the marketing professionals wit
 	> pip install flask
 	
 	> pip install numpy
+	
 	> pip install pandas
+	
 	> pip install matplotlib
+	
 	> pip install itertools
+	
 	> pip install sklearn
 
 2. Project Layout
