@@ -25,6 +25,7 @@ Prediction Of the Target User Segment
 	* templates/, a directory for all the template files that are used.
 	* dataset/, a directory for all the datasets used. 
 	* static/, a directory for all the static files. 
+	
 		-static directory contains following subdirectories:
 
 		* css/
