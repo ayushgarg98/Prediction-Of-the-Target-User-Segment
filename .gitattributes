@@ -1,4 +1,4 @@
-# *.css linguist-language=Python
+*.css linguist-language=Python
 *.glyphs linguist-language=OpenStep-Property-List
 static/vendor/* linguist-vendored
 jquery.js -linguist-vendored
