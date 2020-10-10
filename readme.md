@@ -5,6 +5,7 @@
 
 
 1. Requirements
+
 	Run these commands in terminal to install the required libraries:
 	
 	> pip install flask
