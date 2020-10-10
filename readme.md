@@ -20,6 +20,7 @@
 	> pip install sklearn
 
 2. Project Layout
+	
 	The project directory will contain:
 	
 	* templates/, a directory for all the template files that are used.
